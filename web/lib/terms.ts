@@ -6,7 +6,6 @@ export async function getTerm(termId: string): Promise<Term | null> {
   try {
     const filePath = path.join(
       process.cwd(),
-      "..",
       "data",
       "terms",
       `${termId}.json`
