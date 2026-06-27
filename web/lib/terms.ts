@@ -40,7 +40,7 @@ type TermIndexEntry = {
 
 export async function getAllTerms(): Promise<TermIndexEntry[]> {
   const index = await fs.readFile(
-    path.join(process.cwd(), "..", "data", "index", "term.json"),
+    path.join(process.cwd(), "data", "index", "term.json"),
     "utf8"
   );
   return JSON.parse(index) as TermIndexEntry[];
@@ -48,7 +48,7 @@ export async function getAllTerms(): Promise<TermIndexEntry[]> {
 
 export async function getTermsForSong(songId: string): Promise<Term[]> {
   const index = await fs.readFile(
-    path.join(process.cwd(), "..", "data", "index", "song_term.json"),
+    path.join(process.cwd(), "data", "index", "song_term.json"),
     "utf8"
   );
   const indexData = JSON.parse(index) as SongTermIndexEntry[];
@@ -61,7 +61,6 @@ export async function getTermsForSong(songId: string): Promise<Term[]> {
     termIds.map(async (termId) => {
       const filePath = path.join(
         process.cwd(),
-        "..",
         "data",
         "terms",
       `${termId}.json`

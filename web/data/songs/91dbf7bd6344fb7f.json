@@ -1,0 +1,1228 @@
+{
+  "song_id": "91dbf7bd6344fb7f",
+  "title": "新的事將要成就",
+  "album": "新的事將要成就",
+  "composer": "陳麒安",
+  "lyricist": "游智婷",
+  "series": "敬拜讚美 (20)",
+  "key": "F",
+  "spotify_id": "5k4wD3lueAcE4WuCCopEHD",
+  "spotify_title": "新的事將要成就",
+  "youtube_id": "a9AjfNHCwaU",
+  "youtube_title": "【新春蒙恩敬拜特輯】新的事將要成就 / 祢眼目必看顧這地 / 新的異象，新的方向 / 祢的恩典夠我用 / 豐盛的應許 / 謝謝你成為我的家｜讚美之泉",
+  "youtube_url": "https://www.youtube.com/watch?v=a9AjfNHCwaU",
+  "spotify_url": "https://open.spotify.com/track/5k4wD3lueAcE4WuCCopEHD",
+  "lyrics_clean": "祢是做新事的神\n我要向祢唱新歌\n恩典憐憫每天都是新的\n新酒新皮袋每天要賜下\n新的事 新的事將要成就 \n新的恩膏 新的恩寵\n我們要 我們要唱新歌 稱讚我們神為高\n新的事 新的事將要成就\n新的恩典 新的盼望\n我們要 我們要唱新歌 充滿神的榮耀",
+  "lyrics_tokenized": {
+    "version": 1,
+    "lines": [
+      {
+        "line_number": 1,
+        "text": "祢是做新事的神",
+        "tokens": [
+          {
+            "id": "91dbf7bd6344fb7f:1:0",
+            "position": 0,
+            "type": "hanzi",
+            "surface": "祢",
+            "lemma": "祢",
+            "traditional": "禰",
+            "simplified": "祢",
+            "pinyin": "mi2"
+          },
+          {
+            "id": "91dbf7bd6344fb7f:1:1",
+            "position": 1,
+            "type": "hanzi",
+            "surface": "是",
+            "lemma": "是",
+            "traditional": "是",
+            "simplified": "是",
+            "pinyin": "shi4"
+          },
+          {
+            "id": "91dbf7bd6344fb7f:1:2",
+            "position": 2,
+            "type": "hanzi",
+            "surface": "做",
+            "lemma": "做",
+            "traditional": "做",
+            "simplified": "做",
+            "pinyin": "zuo4"
+          },
+          {
+            "id": "91dbf7bd6344fb7f:1:3",
+            "position": 3,
+            "type": "hanzi",
+            "surface": "新",
+            "lemma": "新",
+            "traditional": "新",
+            "simplified": "新",
+            "pinyin": "xin1"
+          },
+          {
+            "id": "91dbf7bd6344fb7f:1:4",
+            "position": 4,
+            "type": "hanzi",
+            "surface": "事",
+            "lemma": "事",
+            "traditional": "事",
+            "simplified": "事",
+            "pinyin": "shi4"
+          },
+          {
+            "id": "91dbf7bd6344fb7f:1:5",
+            "position": 5,
+            "type": "hanzi",
+            "surface": "的",
+            "lemma": "的",
+            "traditional": "的",
+            "simplified": "的",
+            "pinyin": "de"
+          },
+          {
+            "id": "91dbf7bd6344fb7f:1:6",
+            "position": 6,
+            "type": "hanzi",
+            "surface": "神",
+            "lemma": "神",
+            "traditional": "神",
+            "simplified": "神",
+            "pinyin": "shen2"
+          }
+        ],
+        "render_groups": []
+      },
+      {
+        "line_number": 2,
+        "text": "我要向祢唱新歌",
+        "tokens": [
+          {
+            "id": "91dbf7bd6344fb7f:2:0",
+            "position": 0,
+            "type": "hanzi",
+            "surface": "我",
+            "lemma": "我",
+            "traditional": "我",
+            "simplified": "我",
+            "pinyin": "wo3"
+          },
+          {
+            "id": "91dbf7bd6344fb7f:2:1",
+            "position": 1,
+            "type": "hanzi",
+            "surface": "要",
+            "lemma": "要",
+            "traditional": "要",
+            "simplified": "要",
+            "pinyin": "yao4"
+          },
+          {
+            "id": "91dbf7bd6344fb7f:2:2",
+            "position": 2,
+            "type": "hanzi",
+            "surface": "向",
+            "lemma": "向",
+            "traditional": "向",
+            "simplified": "向",
+            "pinyin": "xiang4"
+          },
+          {
+            "id": "91dbf7bd6344fb7f:2:3",
+            "position": 3,
+            "type": "hanzi",
+            "surface": "祢",
+            "lemma": "祢",
+            "traditional": "禰",
+            "simplified": "祢",
+            "pinyin": "mi2"
+          },
+          {
+            "id": "91dbf7bd6344fb7f:2:4",
+            "position": 4,
+            "type": "hanzi",
+            "surface": "唱",
+            "lemma": "唱",
+            "traditional": "唱",
+            "simplified": "唱",
+            "pinyin": "chang4"
+          },
+          {
+            "id": "91dbf7bd6344fb7f:2:5",
+            "position": 5,
+            "type": "hanzi",
+            "surface": "新",
+            "lemma": "新",
+            "traditional": "新",
+            "simplified": "新",
+            "pinyin": "xin1"
+          },
+          {
+            "id": "91dbf7bd6344fb7f:2:6",
+            "position": 6,
+            "type": "hanzi",
+            "surface": "歌",
+            "lemma": "歌",
+            "traditional": "歌",
+            "simplified": "歌",
+            "pinyin": "ge1"
+          }
+        ],
+        "render_groups": []
+      },
+      {
+        "line_number": 3,
+        "text": "恩典憐憫每天都是新的",
+        "tokens": [
+          {
+            "id": "91dbf7bd6344fb7f:3:0",
+            "position": 0,
+            "type": "hanzi",
+            "surface": "恩",
+            "lemma": "恩",
+            "traditional": "恩",
+            "simplified": "恩",
+            "pinyin": "en1"
+          },
+          {
+            "id": "91dbf7bd6344fb7f:3:1",
+            "position": 1,
+            "type": "hanzi",
+            "surface": "典",
+            "lemma": "典",
+            "traditional": "典",
+            "simplified": "典",
+            "pinyin": "dian3"
+          },
+          {
+            "id": "91dbf7bd6344fb7f:3:2",
+            "position": 2,
+            "type": "hanzi",
+            "surface": "憐",
+            "lemma": "怜",
+            "traditional": "憐",
+            "simplified": "怜",
+            "pinyin": "lian2"
+          },
+          {
+            "id": "91dbf7bd6344fb7f:3:3",
+            "position": 3,
+            "type": "hanzi",
+            "surface": "憫",
+            "lemma": "悯",
+            "traditional": "憫",
+            "simplified": "悯",
+            "pinyin": "min3"
+          },
+          {
+            "id": "91dbf7bd6344fb7f:3:4",
+            "position": 4,
+            "type": "hanzi",
+            "surface": "每",
+            "lemma": "每",
+            "traditional": "每",
+            "simplified": "每",
+            "pinyin": "mei3"
+          },
+          {
+            "id": "91dbf7bd6344fb7f:3:5",
+            "position": 5,
+            "type": "hanzi",
+            "surface": "天",
+            "lemma": "天",
+            "traditional": "天",
+            "simplified": "天",
+            "pinyin": "tian1"
+          },
+          {
+            "id": "91dbf7bd6344fb7f:3:6",
+            "position": 6,
+            "type": "hanzi",
+            "surface": "都",
+            "lemma": "都",
+            "traditional": "都",
+            "simplified": "都",
+            "pinyin": "dou1"
+          },
+          {
+            "id": "91dbf7bd6344fb7f:3:7",
+            "position": 7,
+            "type": "hanzi",
+            "surface": "是",
+            "lemma": "是",
+            "traditional": "是",
+            "simplified": "是",
+            "pinyin": "shi4"
+          },
+          {
+            "id": "91dbf7bd6344fb7f:3:8",
+            "position": 8,
+            "type": "hanzi",
+            "surface": "新",
+            "lemma": "新",
+            "traditional": "新",
+            "simplified": "新",
+            "pinyin": "xin1"
+          },
+          {
+            "id": "91dbf7bd6344fb7f:3:9",
+            "position": 9,
+            "type": "hanzi",
+            "surface": "的",
+            "lemma": "的",
+            "traditional": "的",
+            "simplified": "的",
+            "pinyin": "de"
+          }
+        ],
+        "render_groups": [
+          {
+            "term_id": "d06c81f9591aa5cf",
+            "term": "恩典",
+            "start": 0,
+            "end": 1
+          },
+          {
+            "term_id": "bac9f1f983f02296",
+            "term": "憐憫",
+            "start": 2,
+            "end": 3
+          }
+        ]
+      },
+      {
+        "line_number": 4,
+        "text": "新酒新皮袋每天要賜下",
+        "tokens": [
+          {
+            "id": "91dbf7bd6344fb7f:4:0",
+            "position": 0,
+            "type": "hanzi",
+            "surface": "新",
+            "lemma": "新",
+            "traditional": "新",
+            "simplified": "新",
+            "pinyin": "xin1"
+          },
+          {
+            "id": "91dbf7bd6344fb7f:4:1",
+            "position": 1,
+            "type": "hanzi",
+            "surface": "酒",
+            "lemma": "酒",
+            "traditional": "酒",
+            "simplified": "酒",
+            "pinyin": "jiu3"
+          },
+          {
+            "id": "91dbf7bd6344fb7f:4:2",
+            "position": 2,
+            "type": "hanzi",
+            "surface": "新",
+            "lemma": "新",
+            "traditional": "新",
+            "simplified": "新",
+            "pinyin": "xin1"
+          },
+          {
+            "id": "91dbf7bd6344fb7f:4:3",
+            "position": 3,
+            "type": "hanzi",
+            "surface": "皮",
+            "lemma": "皮",
+            "traditional": "皮",
+            "simplified": "皮",
+            "pinyin": "pi2"
+          },
+          {
+            "id": "91dbf7bd6344fb7f:4:4",
+            "position": 4,
+            "type": "hanzi",
+            "surface": "袋",
+            "lemma": "袋",
+            "traditional": "袋",
+            "simplified": "袋",
+            "pinyin": "dai4"
+          },
+          {
+            "id": "91dbf7bd6344fb7f:4:5",
+            "position": 5,
+            "type": "hanzi",
+            "surface": "每",
+            "lemma": "每",
+            "traditional": "每",
+            "simplified": "每",
+            "pinyin": "mei3"
+          },
+          {
+            "id": "91dbf7bd6344fb7f:4:6",
+            "position": 6,
+            "type": "hanzi",
+            "surface": "天",
+            "lemma": "天",
+            "traditional": "天",
+            "simplified": "天",
+            "pinyin": "tian1"
+          },
+          {
+            "id": "91dbf7bd6344fb7f:4:7",
+            "position": 7,
+            "type": "hanzi",
+            "surface": "要",
+            "lemma": "要",
+            "traditional": "要",
+            "simplified": "要",
+            "pinyin": "yao4"
+          },
+          {
+            "id": "91dbf7bd6344fb7f:4:8",
+            "position": 8,
+            "type": "hanzi",
+            "surface": "賜",
+            "lemma": "赐",
+            "traditional": "賜",
+            "simplified": "赐",
+            "pinyin": "ci4"
+          },
+          {
+            "id": "91dbf7bd6344fb7f:4:9",
+            "position": 9,
+            "type": "hanzi",
+            "surface": "下",
+            "lemma": "下",
+            "traditional": "下",
+            "simplified": "下",
+            "pinyin": "xia4"
+          }
+        ],
+        "render_groups": [
+          {
+            "term_id": "58735860f00c348f",
+            "term": "新酒新皮袋",
+            "start": 0,
+            "end": 4
+          }
+        ]
+      },
+      {
+        "line_number": 5,
+        "text": "新的事 新的事將要成就",
+        "tokens": [
+          {
+            "id": "91dbf7bd6344fb7f:5:0",
+            "position": 0,
+            "type": "hanzi",
+            "surface": "新",
+            "lemma": "新",
+            "traditional": "新",
+            "simplified": "新",
+            "pinyin": "xin1"
+          },
+          {
+            "id": "91dbf7bd6344fb7f:5:1",
+            "position": 1,
+            "type": "hanzi",
+            "surface": "的",
+            "lemma": "的",
+            "traditional": "的",
+            "simplified": "的",
+            "pinyin": "de"
+          },
+          {
+            "id": "91dbf7bd6344fb7f:5:2",
+            "position": 2,
+            "type": "hanzi",
+            "surface": "事",
+            "lemma": "事",
+            "traditional": "事",
+            "simplified": "事",
+            "pinyin": "shi4"
+          },
+          {
+            "id": null,
+            "position": 3,
+            "type": "word",
+            "surface": " ",
+            "lemma": " ",
+            "traditional": null,
+            "simplified": null,
+            "pinyin": null
+          },
+          {
+            "id": "91dbf7bd6344fb7f:5:4",
+            "position": 4,
+            "type": "hanzi",
+            "surface": "新",
+            "lemma": "新",
+            "traditional": "新",
+            "simplified": "新",
+            "pinyin": "xin1"
+          },
+          {
+            "id": "91dbf7bd6344fb7f:5:5",
+            "position": 5,
+            "type": "hanzi",
+            "surface": "的",
+            "lemma": "的",
+            "traditional": "的",
+            "simplified": "的",
+            "pinyin": "de"
+          },
+          {
+            "id": "91dbf7bd6344fb7f:5:6",
+            "position": 6,
+            "type": "hanzi",
+            "surface": "事",
+            "lemma": "事",
+            "traditional": "事",
+            "simplified": "事",
+            "pinyin": "shi4"
+          },
+          {
+            "id": "91dbf7bd6344fb7f:5:7",
+            "position": 7,
+            "type": "hanzi",
+            "surface": "將",
+            "lemma": "将",
+            "traditional": "將",
+            "simplified": "将",
+            "pinyin": "jiang1"
+          },
+          {
+            "id": "91dbf7bd6344fb7f:5:8",
+            "position": 8,
+            "type": "hanzi",
+            "surface": "要",
+            "lemma": "要",
+            "traditional": "要",
+            "simplified": "要",
+            "pinyin": "yao4"
+          },
+          {
+            "id": "91dbf7bd6344fb7f:5:9",
+            "position": 9,
+            "type": "hanzi",
+            "surface": "成",
+            "lemma": "成",
+            "traditional": "成",
+            "simplified": "成",
+            "pinyin": "cheng2"
+          },
+          {
+            "id": "91dbf7bd6344fb7f:5:10",
+            "position": 10,
+            "type": "hanzi",
+            "surface": "就",
+            "lemma": "就",
+            "traditional": "就",
+            "simplified": "就",
+            "pinyin": "jiu4"
+          }
+        ],
+        "render_groups": []
+      },
+      {
+        "line_number": 6,
+        "text": "新的恩膏 新的恩寵",
+        "tokens": [
+          {
+            "id": "91dbf7bd6344fb7f:6:0",
+            "position": 0,
+            "type": "hanzi",
+            "surface": "新",
+            "lemma": "新",
+            "traditional": "新",
+            "simplified": "新",
+            "pinyin": "xin1"
+          },
+          {
+            "id": "91dbf7bd6344fb7f:6:1",
+            "position": 1,
+            "type": "hanzi",
+            "surface": "的",
+            "lemma": "的",
+            "traditional": "的",
+            "simplified": "的",
+            "pinyin": "de"
+          },
+          {
+            "id": "91dbf7bd6344fb7f:6:2",
+            "position": 2,
+            "type": "hanzi",
+            "surface": "恩",
+            "lemma": "恩",
+            "traditional": "恩",
+            "simplified": "恩",
+            "pinyin": "en1"
+          },
+          {
+            "id": "91dbf7bd6344fb7f:6:3",
+            "position": 3,
+            "type": "hanzi",
+            "surface": "膏",
+            "lemma": "膏",
+            "traditional": "膏",
+            "simplified": "膏",
+            "pinyin": "gao1"
+          },
+          {
+            "id": null,
+            "position": 4,
+            "type": "word",
+            "surface": " ",
+            "lemma": " ",
+            "traditional": null,
+            "simplified": null,
+            "pinyin": null
+          },
+          {
+            "id": "91dbf7bd6344fb7f:6:5",
+            "position": 5,
+            "type": "hanzi",
+            "surface": "新",
+            "lemma": "新",
+            "traditional": "新",
+            "simplified": "新",
+            "pinyin": "xin1"
+          },
+          {
+            "id": "91dbf7bd6344fb7f:6:6",
+            "position": 6,
+            "type": "hanzi",
+            "surface": "的",
+            "lemma": "的",
+            "traditional": "的",
+            "simplified": "的",
+            "pinyin": "de"
+          },
+          {
+            "id": "91dbf7bd6344fb7f:6:7",
+            "position": 7,
+            "type": "hanzi",
+            "surface": "恩",
+            "lemma": "恩",
+            "traditional": "恩",
+            "simplified": "恩",
+            "pinyin": "en1"
+          },
+          {
+            "id": "91dbf7bd6344fb7f:6:8",
+            "position": 8,
+            "type": "hanzi",
+            "surface": "寵",
+            "lemma": "宠",
+            "traditional": "寵",
+            "simplified": "宠",
+            "pinyin": "chong3"
+          }
+        ],
+        "render_groups": [
+          {
+            "term_id": "6b4fbe26158809a0",
+            "term": "恩膏",
+            "start": 2,
+            "end": 3
+          },
+          {
+            "term_id": "664d868aeb6157f5",
+            "term": "恩寵",
+            "start": 7,
+            "end": 8
+          }
+        ]
+      },
+      {
+        "line_number": 7,
+        "text": "我們要 我們要唱新歌 稱讚我們神為高",
+        "tokens": [
+          {
+            "id": "91dbf7bd6344fb7f:7:0",
+            "position": 0,
+            "type": "hanzi",
+            "surface": "我",
+            "lemma": "我",
+            "traditional": "我",
+            "simplified": "我",
+            "pinyin": "wo3"
+          },
+          {
+            "id": "91dbf7bd6344fb7f:7:1",
+            "position": 1,
+            "type": "hanzi",
+            "surface": "們",
+            "lemma": "们",
+            "traditional": "們",
+            "simplified": "们",
+            "pinyin": "men"
+          },
+          {
+            "id": "91dbf7bd6344fb7f:7:2",
+            "position": 2,
+            "type": "hanzi",
+            "surface": "要",
+            "lemma": "要",
+            "traditional": "要",
+            "simplified": "要",
+            "pinyin": "yao4"
+          },
+          {
+            "id": null,
+            "position": 3,
+            "type": "word",
+            "surface": " ",
+            "lemma": " ",
+            "traditional": null,
+            "simplified": null,
+            "pinyin": null
+          },
+          {
+            "id": "91dbf7bd6344fb7f:7:4",
+            "position": 4,
+            "type": "hanzi",
+            "surface": "我",
+            "lemma": "我",
+            "traditional": "我",
+            "simplified": "我",
+            "pinyin": "wo3"
+          },
+          {
+            "id": "91dbf7bd6344fb7f:7:5",
+            "position": 5,
+            "type": "hanzi",
+            "surface": "們",
+            "lemma": "们",
+            "traditional": "們",
+            "simplified": "们",
+            "pinyin": "men"
+          },
+          {
+            "id": "91dbf7bd6344fb7f:7:6",
+            "position": 6,
+            "type": "hanzi",
+            "surface": "要",
+            "lemma": "要",
+            "traditional": "要",
+            "simplified": "要",
+            "pinyin": "yao4"
+          },
+          {
+            "id": "91dbf7bd6344fb7f:7:7",
+            "position": 7,
+            "type": "hanzi",
+            "surface": "唱",
+            "lemma": "唱",
+            "traditional": "唱",
+            "simplified": "唱",
+            "pinyin": "chang4"
+          },
+          {
+            "id": "91dbf7bd6344fb7f:7:8",
+            "position": 8,
+            "type": "hanzi",
+            "surface": "新",
+            "lemma": "新",
+            "traditional": "新",
+            "simplified": "新",
+            "pinyin": "xin1"
+          },
+          {
+            "id": "91dbf7bd6344fb7f:7:9",
+            "position": 9,
+            "type": "hanzi",
+            "surface": "歌",
+            "lemma": "歌",
+            "traditional": "歌",
+            "simplified": "歌",
+            "pinyin": "ge1"
+          },
+          {
+            "id": null,
+            "position": 10,
+            "type": "word",
+            "surface": " ",
+            "lemma": " ",
+            "traditional": null,
+            "simplified": null,
+            "pinyin": null
+          },
+          {
+            "id": "91dbf7bd6344fb7f:7:11",
+            "position": 11,
+            "type": "hanzi",
+            "surface": "稱",
+            "lemma": "称",
+            "traditional": "稱",
+            "simplified": "称",
+            "pinyin": "cheng1"
+          },
+          {
+            "id": "91dbf7bd6344fb7f:7:12",
+            "position": 12,
+            "type": "hanzi",
+            "surface": "讚",
+            "lemma": "赞",
+            "traditional": "讚",
+            "simplified": "赞",
+            "pinyin": "zan4"
+          },
+          {
+            "id": "91dbf7bd6344fb7f:7:13",
+            "position": 13,
+            "type": "hanzi",
+            "surface": "我",
+            "lemma": "我",
+            "traditional": "我",
+            "simplified": "我",
+            "pinyin": "wo3"
+          },
+          {
+            "id": "91dbf7bd6344fb7f:7:14",
+            "position": 14,
+            "type": "hanzi",
+            "surface": "們",
+            "lemma": "们",
+            "traditional": "們",
+            "simplified": "们",
+            "pinyin": "men"
+          },
+          {
+            "id": "91dbf7bd6344fb7f:7:15",
+            "position": 15,
+            "type": "hanzi",
+            "surface": "神",
+            "lemma": "神",
+            "traditional": "神",
+            "simplified": "神",
+            "pinyin": "shen2"
+          },
+          {
+            "id": "91dbf7bd6344fb7f:7:16",
+            "position": 16,
+            "type": "hanzi",
+            "surface": "為",
+            "lemma": "为",
+            "traditional": "為",
+            "simplified": "为",
+            "pinyin": "wei4"
+          },
+          {
+            "id": "91dbf7bd6344fb7f:7:17",
+            "position": 17,
+            "type": "hanzi",
+            "surface": "高",
+            "lemma": "高",
+            "traditional": "高",
+            "simplified": "高",
+            "pinyin": "gao1"
+          }
+        ],
+        "render_groups": []
+      },
+      {
+        "line_number": 8,
+        "text": "新的事 新的事將要成就",
+        "tokens": [
+          {
+            "id": "91dbf7bd6344fb7f:8:0",
+            "position": 0,
+            "type": "hanzi",
+            "surface": "新",
+            "lemma": "新",
+            "traditional": "新",
+            "simplified": "新",
+            "pinyin": "xin1"
+          },
+          {
+            "id": "91dbf7bd6344fb7f:8:1",
+            "position": 1,
+            "type": "hanzi",
+            "surface": "的",
+            "lemma": "的",
+            "traditional": "的",
+            "simplified": "的",
+            "pinyin": "de"
+          },
+          {
+            "id": "91dbf7bd6344fb7f:8:2",
+            "position": 2,
+            "type": "hanzi",
+            "surface": "事",
+            "lemma": "事",
+            "traditional": "事",
+            "simplified": "事",
+            "pinyin": "shi4"
+          },
+          {
+            "id": null,
+            "position": 3,
+            "type": "word",
+            "surface": " ",
+            "lemma": " ",
+            "traditional": null,
+            "simplified": null,
+            "pinyin": null
+          },
+          {
+            "id": "91dbf7bd6344fb7f:8:4",
+            "position": 4,
+            "type": "hanzi",
+            "surface": "新",
+            "lemma": "新",
+            "traditional": "新",
+            "simplified": "新",
+            "pinyin": "xin1"
+          },
+          {
+            "id": "91dbf7bd6344fb7f:8:5",
+            "position": 5,
+            "type": "hanzi",
+            "surface": "的",
+            "lemma": "的",
+            "traditional": "的",
+            "simplified": "的",
+            "pinyin": "de"
+          },
+          {
+            "id": "91dbf7bd6344fb7f:8:6",
+            "position": 6,
+            "type": "hanzi",
+            "surface": "事",
+            "lemma": "事",
+            "traditional": "事",
+            "simplified": "事",
+            "pinyin": "shi4"
+          },
+          {
+            "id": "91dbf7bd6344fb7f:8:7",
+            "position": 7,
+            "type": "hanzi",
+            "surface": "將",
+            "lemma": "将",
+            "traditional": "將",
+            "simplified": "将",
+            "pinyin": "jiang1"
+          },
+          {
+            "id": "91dbf7bd6344fb7f:8:8",
+            "position": 8,
+            "type": "hanzi",
+            "surface": "要",
+            "lemma": "要",
+            "traditional": "要",
+            "simplified": "要",
+            "pinyin": "yao4"
+          },
+          {
+            "id": "91dbf7bd6344fb7f:8:9",
+            "position": 9,
+            "type": "hanzi",
+            "surface": "成",
+            "lemma": "成",
+            "traditional": "成",
+            "simplified": "成",
+            "pinyin": "cheng2"
+          },
+          {
+            "id": "91dbf7bd6344fb7f:8:10",
+            "position": 10,
+            "type": "hanzi",
+            "surface": "就",
+            "lemma": "就",
+            "traditional": "就",
+            "simplified": "就",
+            "pinyin": "jiu4"
+          }
+        ],
+        "render_groups": []
+      },
+      {
+        "line_number": 9,
+        "text": "新的恩典 新的盼望",
+        "tokens": [
+          {
+            "id": "91dbf7bd6344fb7f:9:0",
+            "position": 0,
+            "type": "hanzi",
+            "surface": "新",
+            "lemma": "新",
+            "traditional": "新",
+            "simplified": "新",
+            "pinyin": "xin1"
+          },
+          {
+            "id": "91dbf7bd6344fb7f:9:1",
+            "position": 1,
+            "type": "hanzi",
+            "surface": "的",
+            "lemma": "的",
+            "traditional": "的",
+            "simplified": "的",
+            "pinyin": "de"
+          },
+          {
+            "id": "91dbf7bd6344fb7f:9:2",
+            "position": 2,
+            "type": "hanzi",
+            "surface": "恩",
+            "lemma": "恩",
+            "traditional": "恩",
+            "simplified": "恩",
+            "pinyin": "en1"
+          },
+          {
+            "id": "91dbf7bd6344fb7f:9:3",
+            "position": 3,
+            "type": "hanzi",
+            "surface": "典",
+            "lemma": "典",
+            "traditional": "典",
+            "simplified": "典",
+            "pinyin": "dian3"
+          },
+          {
+            "id": null,
+            "position": 4,
+            "type": "word",
+            "surface": " ",
+            "lemma": " ",
+            "traditional": null,
+            "simplified": null,
+            "pinyin": null
+          },
+          {
+            "id": "91dbf7bd6344fb7f:9:5",
+            "position": 5,
+            "type": "hanzi",
+            "surface": "新",
+            "lemma": "新",
+            "traditional": "新",
+            "simplified": "新",
+            "pinyin": "xin1"
+          },
+          {
+            "id": "91dbf7bd6344fb7f:9:6",
+            "position": 6,
+            "type": "hanzi",
+            "surface": "的",
+            "lemma": "的",
+            "traditional": "的",
+            "simplified": "的",
+            "pinyin": "de"
+          },
+          {
+            "id": "91dbf7bd6344fb7f:9:7",
+            "position": 7,
+            "type": "hanzi",
+            "surface": "盼",
+            "lemma": "盼",
+            "traditional": "盼",
+            "simplified": "盼",
+            "pinyin": "pan4"
+          },
+          {
+            "id": "91dbf7bd6344fb7f:9:8",
+            "position": 8,
+            "type": "hanzi",
+            "surface": "望",
+            "lemma": "望",
+            "traditional": "望",
+            "simplified": "望",
+            "pinyin": "wang4"
+          }
+        ],
+        "render_groups": [
+          {
+            "term_id": "d06c81f9591aa5cf",
+            "term": "恩典",
+            "start": 2,
+            "end": 3
+          }
+        ]
+      },
+      {
+        "line_number": 10,
+        "text": "我們要 我們要唱新歌 充滿神的榮耀",
+        "tokens": [
+          {
+            "id": "91dbf7bd6344fb7f:10:0",
+            "position": 0,
+            "type": "hanzi",
+            "surface": "我",
+            "lemma": "我",
+            "traditional": "我",
+            "simplified": "我",
+            "pinyin": "wo3"
+          },
+          {
+            "id": "91dbf7bd6344fb7f:10:1",
+            "position": 1,
+            "type": "hanzi",
+            "surface": "們",
+            "lemma": "们",
+            "traditional": "們",
+            "simplified": "们",
+            "pinyin": "men"
+          },
+          {
+            "id": "91dbf7bd6344fb7f:10:2",
+            "position": 2,
+            "type": "hanzi",
+            "surface": "要",
+            "lemma": "要",
+            "traditional": "要",
+            "simplified": "要",
+            "pinyin": "yao4"
+          },
+          {
+            "id": null,
+            "position": 3,
+            "type": "word",
+            "surface": " ",
+            "lemma": " ",
+            "traditional": null,
+            "simplified": null,
+            "pinyin": null
+          },
+          {
+            "id": "91dbf7bd6344fb7f:10:4",
+            "position": 4,
+            "type": "hanzi",
+            "surface": "我",
+            "lemma": "我",
+            "traditional": "我",
+            "simplified": "我",
+            "pinyin": "wo3"
+          },
+          {
+            "id": "91dbf7bd6344fb7f:10:5",
+            "position": 5,
+            "type": "hanzi",
+            "surface": "們",
+            "lemma": "们",
+            "traditional": "們",
+            "simplified": "们",
+            "pinyin": "men"
+          },
+          {
+            "id": "91dbf7bd6344fb7f:10:6",
+            "position": 6,
+            "type": "hanzi",
+            "surface": "要",
+            "lemma": "要",
+            "traditional": "要",
+            "simplified": "要",
+            "pinyin": "yao4"
+          },
+          {
+            "id": "91dbf7bd6344fb7f:10:7",
+            "position": 7,
+            "type": "hanzi",
+            "surface": "唱",
+            "lemma": "唱",
+            "traditional": "唱",
+            "simplified": "唱",
+            "pinyin": "chang4"
+          },
+          {
+            "id": "91dbf7bd6344fb7f:10:8",
+            "position": 8,
+            "type": "hanzi",
+            "surface": "新",
+            "lemma": "新",
+            "traditional": "新",
+            "simplified": "新",
+            "pinyin": "xin1"
+          },
+          {
+            "id": "91dbf7bd6344fb7f:10:9",
+            "position": 9,
+            "type": "hanzi",
+            "surface": "歌",
+            "lemma": "歌",
+            "traditional": "歌",
+            "simplified": "歌",
+            "pinyin": "ge1"
+          },
+          {
+            "id": null,
+            "position": 10,
+            "type": "word",
+            "surface": " ",
+            "lemma": " ",
+            "traditional": null,
+            "simplified": null,
+            "pinyin": null
+          },
+          {
+            "id": "91dbf7bd6344fb7f:10:11",
+            "position": 11,
+            "type": "hanzi",
+            "surface": "充",
+            "lemma": "充",
+            "traditional": "充",
+            "simplified": "充",
+            "pinyin": "chong1"
+          },
+          {
+            "id": "91dbf7bd6344fb7f:10:12",
+            "position": 12,
+            "type": "hanzi",
+            "surface": "滿",
+            "lemma": "满",
+            "traditional": "滿",
+            "simplified": "满",
+            "pinyin": "man3"
+          },
+          {
+            "id": "91dbf7bd6344fb7f:10:13",
+            "position": 13,
+            "type": "hanzi",
+            "surface": "神",
+            "lemma": "神",
+            "traditional": "神",
+            "simplified": "神",
+            "pinyin": "shen2"
+          },
+          {
+            "id": "91dbf7bd6344fb7f:10:14",
+            "position": 14,
+            "type": "hanzi",
+            "surface": "的",
+            "lemma": "的",
+            "traditional": "的",
+            "simplified": "的",
+            "pinyin": "de"
+          },
+          {
+            "id": "91dbf7bd6344fb7f:10:15",
+            "position": 15,
+            "type": "hanzi",
+            "surface": "榮",
+            "lemma": "荣",
+            "traditional": "榮",
+            "simplified": "荣",
+            "pinyin": "rong2"
+          },
+          {
+            "id": "91dbf7bd6344fb7f:10:16",
+            "position": 16,
+            "type": "hanzi",
+            "surface": "耀",
+            "lemma": "耀",
+            "traditional": "耀",
+            "simplified": "耀",
+            "pinyin": "yao4"
+          }
+        ],
+        "render_groups": [
+          {
+            "term_id": "4f0eea448c61f8b9",
+            "term": "榮耀",
+            "start": 15,
+            "end": 16
+          }
+        ]
+      }
+    ]
+  }
+}

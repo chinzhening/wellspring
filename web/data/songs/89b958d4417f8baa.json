@@ -1,0 +1,1391 @@
+{
+  "song_id": "89b958d4417f8baa",
+  "title": "喜樂河流",
+  "album": "一閃一閃亮晶晶",
+  "composer": "游智偉",
+  "lyricist": "游智偉",
+  "series": "兒童敬拜讚美 (8)",
+  "key": "E",
+  "spotify_id": "1a2fEMryUH2hAHCebGwjwV",
+  "spotify_title": "喜樂河流",
+  "youtube_id": "GeKufiL3Zog",
+  "youtube_title": "【喜樂河流 River of Joy】官方敬拜卡拉OK版MV (無人聲 純樂器伴奏 / 伴唱 Instrumental) - 讚美之泉敬拜讚美 (22)",
+  "youtube_url": "https://www.youtube.com/watch?v=GeKufiL3Zog",
+  "spotify_url": "https://open.spotify.com/track/1a2fEMryUH2hAHCebGwjwV",
+  "lyrics_clean": "喜樂河流 來充滿我\n生命泉源 來澆灌我\n有祢同行 不再懼怕\n無論何處 緊緊跟隨\n我要 walk walk walk in the river\n我要 jump jump jump in the river\n我要 dance dance dance in the river of joy \n我要 walk walk walk in the river\n我要 jump jump jump in the river\n我要 dance dance dance in the river of joy",
+  "lyrics_tokenized": {
+    "version": 1,
+    "lines": [
+      {
+        "line_number": 1,
+        "text": "喜樂河流 來充滿我",
+        "tokens": [
+          {
+            "id": "89b958d4417f8baa:1:0",
+            "position": 0,
+            "type": "hanzi",
+            "surface": "喜",
+            "lemma": "喜",
+            "traditional": "喜",
+            "simplified": "喜",
+            "pinyin": "xi3"
+          },
+          {
+            "id": "89b958d4417f8baa:1:1",
+            "position": 1,
+            "type": "hanzi",
+            "surface": "樂",
+            "lemma": "乐",
+            "traditional": "樂",
+            "simplified": "乐",
+            "pinyin": "le4"
+          },
+          {
+            "id": "89b958d4417f8baa:1:2",
+            "position": 2,
+            "type": "hanzi",
+            "surface": "河",
+            "lemma": "河",
+            "traditional": "河",
+            "simplified": "河",
+            "pinyin": "he2"
+          },
+          {
+            "id": "89b958d4417f8baa:1:3",
+            "position": 3,
+            "type": "hanzi",
+            "surface": "流",
+            "lemma": "流",
+            "traditional": "流",
+            "simplified": "流",
+            "pinyin": "liu2"
+          },
+          {
+            "id": null,
+            "position": 4,
+            "type": "word",
+            "surface": " ",
+            "lemma": " ",
+            "traditional": null,
+            "simplified": null,
+            "pinyin": null
+          },
+          {
+            "id": "89b958d4417f8baa:1:5",
+            "position": 5,
+            "type": "hanzi",
+            "surface": "來",
+            "lemma": "来",
+            "traditional": "來",
+            "simplified": "来",
+            "pinyin": "lai2"
+          },
+          {
+            "id": "89b958d4417f8baa:1:6",
+            "position": 6,
+            "type": "hanzi",
+            "surface": "充",
+            "lemma": "充",
+            "traditional": "充",
+            "simplified": "充",
+            "pinyin": "chong1"
+          },
+          {
+            "id": "89b958d4417f8baa:1:7",
+            "position": 7,
+            "type": "hanzi",
+            "surface": "滿",
+            "lemma": "满",
+            "traditional": "滿",
+            "simplified": "满",
+            "pinyin": "man3"
+          },
+          {
+            "id": "89b958d4417f8baa:1:8",
+            "position": 8,
+            "type": "hanzi",
+            "surface": "我",
+            "lemma": "我",
+            "traditional": "我",
+            "simplified": "我",
+            "pinyin": "wo3"
+          }
+        ],
+        "render_groups": [
+          {
+            "term_id": "4137e5ef883488b9",
+            "term": "喜樂",
+            "start": 0,
+            "end": 1
+          }
+        ]
+      },
+      {
+        "line_number": 2,
+        "text": "生命泉源 來澆灌我",
+        "tokens": [
+          {
+            "id": "89b958d4417f8baa:2:0",
+            "position": 0,
+            "type": "hanzi",
+            "surface": "生",
+            "lemma": "生",
+            "traditional": "生",
+            "simplified": "生",
+            "pinyin": "sheng1"
+          },
+          {
+            "id": "89b958d4417f8baa:2:1",
+            "position": 1,
+            "type": "hanzi",
+            "surface": "命",
+            "lemma": "命",
+            "traditional": "命",
+            "simplified": "命",
+            "pinyin": "ming4"
+          },
+          {
+            "id": "89b958d4417f8baa:2:2",
+            "position": 2,
+            "type": "hanzi",
+            "surface": "泉",
+            "lemma": "泉",
+            "traditional": "泉",
+            "simplified": "泉",
+            "pinyin": "quan2"
+          },
+          {
+            "id": "89b958d4417f8baa:2:3",
+            "position": 3,
+            "type": "hanzi",
+            "surface": "源",
+            "lemma": "源",
+            "traditional": "源",
+            "simplified": "源",
+            "pinyin": "yuan2"
+          },
+          {
+            "id": null,
+            "position": 4,
+            "type": "word",
+            "surface": " ",
+            "lemma": " ",
+            "traditional": null,
+            "simplified": null,
+            "pinyin": null
+          },
+          {
+            "id": "89b958d4417f8baa:2:5",
+            "position": 5,
+            "type": "hanzi",
+            "surface": "來",
+            "lemma": "来",
+            "traditional": "來",
+            "simplified": "来",
+            "pinyin": "lai2"
+          },
+          {
+            "id": "89b958d4417f8baa:2:6",
+            "position": 6,
+            "type": "hanzi",
+            "surface": "澆",
+            "lemma": "浇",
+            "traditional": "澆",
+            "simplified": "浇",
+            "pinyin": "jiao1"
+          },
+          {
+            "id": "89b958d4417f8baa:2:7",
+            "position": 7,
+            "type": "hanzi",
+            "surface": "灌",
+            "lemma": "灌",
+            "traditional": "灌",
+            "simplified": "灌",
+            "pinyin": "guan4"
+          },
+          {
+            "id": "89b958d4417f8baa:2:8",
+            "position": 8,
+            "type": "hanzi",
+            "surface": "我",
+            "lemma": "我",
+            "traditional": "我",
+            "simplified": "我",
+            "pinyin": "wo3"
+          }
+        ],
+        "render_groups": [
+          {
+            "term_id": "b5fc9a1d1ce437b0",
+            "term": "生命泉源",
+            "start": 0,
+            "end": 3
+          },
+          {
+            "term_id": "060bf9f81847c32c",
+            "term": "澆灌",
+            "start": 6,
+            "end": 7
+          }
+        ]
+      },
+      {
+        "line_number": 3,
+        "text": "有祢同行 不再懼怕",
+        "tokens": [
+          {
+            "id": "89b958d4417f8baa:3:0",
+            "position": 0,
+            "type": "hanzi",
+            "surface": "有",
+            "lemma": "有",
+            "traditional": "有",
+            "simplified": "有",
+            "pinyin": "you3"
+          },
+          {
+            "id": "89b958d4417f8baa:3:1",
+            "position": 1,
+            "type": "hanzi",
+            "surface": "祢",
+            "lemma": "祢",
+            "traditional": "禰",
+            "simplified": "祢",
+            "pinyin": "mi2"
+          },
+          {
+            "id": "89b958d4417f8baa:3:2",
+            "position": 2,
+            "type": "hanzi",
+            "surface": "同",
+            "lemma": "同",
+            "traditional": "同",
+            "simplified": "同",
+            "pinyin": "tong2"
+          },
+          {
+            "id": "89b958d4417f8baa:3:3",
+            "position": 3,
+            "type": "hanzi",
+            "surface": "行",
+            "lemma": "行",
+            "traditional": "行",
+            "simplified": "行",
+            "pinyin": "xing2"
+          },
+          {
+            "id": null,
+            "position": 4,
+            "type": "word",
+            "surface": " ",
+            "lemma": " ",
+            "traditional": null,
+            "simplified": null,
+            "pinyin": null
+          },
+          {
+            "id": "89b958d4417f8baa:3:5",
+            "position": 5,
+            "type": "hanzi",
+            "surface": "不",
+            "lemma": "不",
+            "traditional": "不",
+            "simplified": "不",
+            "pinyin": "bu4"
+          },
+          {
+            "id": "89b958d4417f8baa:3:6",
+            "position": 6,
+            "type": "hanzi",
+            "surface": "再",
+            "lemma": "再",
+            "traditional": "再",
+            "simplified": "再",
+            "pinyin": "zai4"
+          },
+          {
+            "id": "89b958d4417f8baa:3:7",
+            "position": 7,
+            "type": "hanzi",
+            "surface": "懼",
+            "lemma": "惧",
+            "traditional": "懼",
+            "simplified": "惧",
+            "pinyin": "ju4"
+          },
+          {
+            "id": "89b958d4417f8baa:3:8",
+            "position": 8,
+            "type": "hanzi",
+            "surface": "怕",
+            "lemma": "怕",
+            "traditional": "怕",
+            "simplified": "怕",
+            "pinyin": "pa4"
+          }
+        ],
+        "render_groups": []
+      },
+      {
+        "line_number": 4,
+        "text": "無論何處 緊緊跟隨",
+        "tokens": [
+          {
+            "id": "89b958d4417f8baa:4:0",
+            "position": 0,
+            "type": "hanzi",
+            "surface": "無",
+            "lemma": "无",
+            "traditional": "無",
+            "simplified": "无",
+            "pinyin": "wu2"
+          },
+          {
+            "id": "89b958d4417f8baa:4:1",
+            "position": 1,
+            "type": "hanzi",
+            "surface": "論",
+            "lemma": "论",
+            "traditional": "論",
+            "simplified": "论",
+            "pinyin": "lun4"
+          },
+          {
+            "id": "89b958d4417f8baa:4:2",
+            "position": 2,
+            "type": "hanzi",
+            "surface": "何",
+            "lemma": "何",
+            "traditional": "何",
+            "simplified": "何",
+            "pinyin": "he2"
+          },
+          {
+            "id": "89b958d4417f8baa:4:3",
+            "position": 3,
+            "type": "hanzi",
+            "surface": "處",
+            "lemma": "处",
+            "traditional": "處",
+            "simplified": "处",
+            "pinyin": "chu4"
+          },
+          {
+            "id": null,
+            "position": 4,
+            "type": "word",
+            "surface": " ",
+            "lemma": " ",
+            "traditional": null,
+            "simplified": null,
+            "pinyin": null
+          },
+          {
+            "id": "89b958d4417f8baa:4:5",
+            "position": 5,
+            "type": "hanzi",
+            "surface": "緊",
+            "lemma": "紧",
+            "traditional": "緊",
+            "simplified": "紧",
+            "pinyin": "jin3"
+          },
+          {
+            "id": "89b958d4417f8baa:4:6",
+            "position": 6,
+            "type": "hanzi",
+            "surface": "緊",
+            "lemma": "紧",
+            "traditional": "緊",
+            "simplified": "紧",
+            "pinyin": "jin3"
+          },
+          {
+            "id": "89b958d4417f8baa:4:7",
+            "position": 7,
+            "type": "hanzi",
+            "surface": "跟",
+            "lemma": "跟",
+            "traditional": "跟",
+            "simplified": "跟",
+            "pinyin": "gen1"
+          },
+          {
+            "id": "89b958d4417f8baa:4:8",
+            "position": 8,
+            "type": "hanzi",
+            "surface": "隨",
+            "lemma": "随",
+            "traditional": "隨",
+            "simplified": "随",
+            "pinyin": "sui2"
+          }
+        ],
+        "render_groups": []
+      },
+      {
+        "line_number": 5,
+        "text": "我要 walk walk walk in the river",
+        "tokens": [
+          {
+            "id": "89b958d4417f8baa:5:0",
+            "position": 0,
+            "type": "hanzi",
+            "surface": "我",
+            "lemma": "我",
+            "traditional": "我",
+            "simplified": "我",
+            "pinyin": "wo3"
+          },
+          {
+            "id": "89b958d4417f8baa:5:1",
+            "position": 1,
+            "type": "hanzi",
+            "surface": "要",
+            "lemma": "要",
+            "traditional": "要",
+            "simplified": "要",
+            "pinyin": "yao4"
+          },
+          {
+            "id": null,
+            "position": 2,
+            "type": "word",
+            "surface": " ",
+            "lemma": " ",
+            "traditional": null,
+            "simplified": null,
+            "pinyin": null
+          },
+          {
+            "id": null,
+            "position": 3,
+            "type": "word",
+            "surface": "walk",
+            "lemma": "walk",
+            "traditional": null,
+            "simplified": null,
+            "pinyin": null
+          },
+          {
+            "id": null,
+            "position": 4,
+            "type": "word",
+            "surface": " ",
+            "lemma": " ",
+            "traditional": null,
+            "simplified": null,
+            "pinyin": null
+          },
+          {
+            "id": null,
+            "position": 5,
+            "type": "word",
+            "surface": "walk",
+            "lemma": "walk",
+            "traditional": null,
+            "simplified": null,
+            "pinyin": null
+          },
+          {
+            "id": null,
+            "position": 6,
+            "type": "word",
+            "surface": " ",
+            "lemma": " ",
+            "traditional": null,
+            "simplified": null,
+            "pinyin": null
+          },
+          {
+            "id": null,
+            "position": 7,
+            "type": "word",
+            "surface": "walk",
+            "lemma": "walk",
+            "traditional": null,
+            "simplified": null,
+            "pinyin": null
+          },
+          {
+            "id": null,
+            "position": 8,
+            "type": "word",
+            "surface": " ",
+            "lemma": " ",
+            "traditional": null,
+            "simplified": null,
+            "pinyin": null
+          },
+          {
+            "id": null,
+            "position": 9,
+            "type": "word",
+            "surface": "in",
+            "lemma": "in",
+            "traditional": null,
+            "simplified": null,
+            "pinyin": null
+          },
+          {
+            "id": null,
+            "position": 10,
+            "type": "word",
+            "surface": " ",
+            "lemma": " ",
+            "traditional": null,
+            "simplified": null,
+            "pinyin": null
+          },
+          {
+            "id": null,
+            "position": 11,
+            "type": "word",
+            "surface": "the",
+            "lemma": "the",
+            "traditional": null,
+            "simplified": null,
+            "pinyin": null
+          },
+          {
+            "id": null,
+            "position": 12,
+            "type": "word",
+            "surface": " ",
+            "lemma": " ",
+            "traditional": null,
+            "simplified": null,
+            "pinyin": null
+          },
+          {
+            "id": null,
+            "position": 13,
+            "type": "word",
+            "surface": "river",
+            "lemma": "river",
+            "traditional": null,
+            "simplified": null,
+            "pinyin": null
+          }
+        ],
+        "render_groups": []
+      },
+      {
+        "line_number": 6,
+        "text": "我要 jump jump jump in the river",
+        "tokens": [
+          {
+            "id": "89b958d4417f8baa:6:0",
+            "position": 0,
+            "type": "hanzi",
+            "surface": "我",
+            "lemma": "我",
+            "traditional": "我",
+            "simplified": "我",
+            "pinyin": "wo3"
+          },
+          {
+            "id": "89b958d4417f8baa:6:1",
+            "position": 1,
+            "type": "hanzi",
+            "surface": "要",
+            "lemma": "要",
+            "traditional": "要",
+            "simplified": "要",
+            "pinyin": "yao4"
+          },
+          {
+            "id": null,
+            "position": 2,
+            "type": "word",
+            "surface": " ",
+            "lemma": " ",
+            "traditional": null,
+            "simplified": null,
+            "pinyin": null
+          },
+          {
+            "id": null,
+            "position": 3,
+            "type": "word",
+            "surface": "jump",
+            "lemma": "jump",
+            "traditional": null,
+            "simplified": null,
+            "pinyin": null
+          },
+          {
+            "id": null,
+            "position": 4,
+            "type": "word",
+            "surface": " ",
+            "lemma": " ",
+            "traditional": null,
+            "simplified": null,
+            "pinyin": null
+          },
+          {
+            "id": null,
+            "position": 5,
+            "type": "word",
+            "surface": "jump",
+            "lemma": "jump",
+            "traditional": null,
+            "simplified": null,
+            "pinyin": null
+          },
+          {
+            "id": null,
+            "position": 6,
+            "type": "word",
+            "surface": " ",
+            "lemma": " ",
+            "traditional": null,
+            "simplified": null,
+            "pinyin": null
+          },
+          {
+            "id": null,
+            "position": 7,
+            "type": "word",
+            "surface": "jump",
+            "lemma": "jump",
+            "traditional": null,
+            "simplified": null,
+            "pinyin": null
+          },
+          {
+            "id": null,
+            "position": 8,
+            "type": "word",
+            "surface": " ",
+            "lemma": " ",
+            "traditional": null,
+            "simplified": null,
+            "pinyin": null
+          },
+          {
+            "id": null,
+            "position": 9,
+            "type": "word",
+            "surface": "in",
+            "lemma": "in",
+            "traditional": null,
+            "simplified": null,
+            "pinyin": null
+          },
+          {
+            "id": null,
+            "position": 10,
+            "type": "word",
+            "surface": " ",
+            "lemma": " ",
+            "traditional": null,
+            "simplified": null,
+            "pinyin": null
+          },
+          {
+            "id": null,
+            "position": 11,
+            "type": "word",
+            "surface": "the",
+            "lemma": "the",
+            "traditional": null,
+            "simplified": null,
+            "pinyin": null
+          },
+          {
+            "id": null,
+            "position": 12,
+            "type": "word",
+            "surface": " ",
+            "lemma": " ",
+            "traditional": null,
+            "simplified": null,
+            "pinyin": null
+          },
+          {
+            "id": null,
+            "position": 13,
+            "type": "word",
+            "surface": "river",
+            "lemma": "river",
+            "traditional": null,
+            "simplified": null,
+            "pinyin": null
+          }
+        ],
+        "render_groups": []
+      },
+      {
+        "line_number": 7,
+        "text": "我要 dance dance dance in the river of joy",
+        "tokens": [
+          {
+            "id": "89b958d4417f8baa:7:0",
+            "position": 0,
+            "type": "hanzi",
+            "surface": "我",
+            "lemma": "我",
+            "traditional": "我",
+            "simplified": "我",
+            "pinyin": "wo3"
+          },
+          {
+            "id": "89b958d4417f8baa:7:1",
+            "position": 1,
+            "type": "hanzi",
+            "surface": "要",
+            "lemma": "要",
+            "traditional": "要",
+            "simplified": "要",
+            "pinyin": "yao4"
+          },
+          {
+            "id": null,
+            "position": 2,
+            "type": "word",
+            "surface": " ",
+            "lemma": " ",
+            "traditional": null,
+            "simplified": null,
+            "pinyin": null
+          },
+          {
+            "id": null,
+            "position": 3,
+            "type": "word",
+            "surface": "dance",
+            "lemma": "dance",
+            "traditional": null,
+            "simplified": null,
+            "pinyin": null
+          },
+          {
+            "id": null,
+            "position": 4,
+            "type": "word",
+            "surface": " ",
+            "lemma": " ",
+            "traditional": null,
+            "simplified": null,
+            "pinyin": null
+          },
+          {
+            "id": null,
+            "position": 5,
+            "type": "word",
+            "surface": "dance",
+            "lemma": "dance",
+            "traditional": null,
+            "simplified": null,
+            "pinyin": null
+          },
+          {
+            "id": null,
+            "position": 6,
+            "type": "word",
+            "surface": " ",
+            "lemma": " ",
+            "traditional": null,
+            "simplified": null,
+            "pinyin": null
+          },
+          {
+            "id": null,
+            "position": 7,
+            "type": "word",
+            "surface": "dance",
+            "lemma": "dance",
+            "traditional": null,
+            "simplified": null,
+            "pinyin": null
+          },
+          {
+            "id": null,
+            "position": 8,
+            "type": "word",
+            "surface": " ",
+            "lemma": " ",
+            "traditional": null,
+            "simplified": null,
+            "pinyin": null
+          },
+          {
+            "id": null,
+            "position": 9,
+            "type": "word",
+            "surface": "in",
+            "lemma": "in",
+            "traditional": null,
+            "simplified": null,
+            "pinyin": null
+          },
+          {
+            "id": null,
+            "position": 10,
+            "type": "word",
+            "surface": " ",
+            "lemma": " ",
+            "traditional": null,
+            "simplified": null,
+            "pinyin": null
+          },
+          {
+            "id": null,
+            "position": 11,
+            "type": "word",
+            "surface": "the",
+            "lemma": "the",
+            "traditional": null,
+            "simplified": null,
+            "pinyin": null
+          },
+          {
+            "id": null,
+            "position": 12,
+            "type": "word",
+            "surface": " ",
+            "lemma": " ",
+            "traditional": null,
+            "simplified": null,
+            "pinyin": null
+          },
+          {
+            "id": null,
+            "position": 13,
+            "type": "word",
+            "surface": "river",
+            "lemma": "river",
+            "traditional": null,
+            "simplified": null,
+            "pinyin": null
+          },
+          {
+            "id": null,
+            "position": 14,
+            "type": "word",
+            "surface": " ",
+            "lemma": " ",
+            "traditional": null,
+            "simplified": null,
+            "pinyin": null
+          },
+          {
+            "id": null,
+            "position": 15,
+            "type": "word",
+            "surface": "of",
+            "lemma": "of",
+            "traditional": null,
+            "simplified": null,
+            "pinyin": null
+          },
+          {
+            "id": null,
+            "position": 16,
+            "type": "word",
+            "surface": " ",
+            "lemma": " ",
+            "traditional": null,
+            "simplified": null,
+            "pinyin": null
+          },
+          {
+            "id": null,
+            "position": 17,
+            "type": "word",
+            "surface": "joy",
+            "lemma": "joy",
+            "traditional": null,
+            "simplified": null,
+            "pinyin": null
+          }
+        ],
+        "render_groups": []
+      },
+      {
+        "line_number": 8,
+        "text": "我要 walk walk walk in the river",
+        "tokens": [
+          {
+            "id": "89b958d4417f8baa:8:0",
+            "position": 0,
+            "type": "hanzi",
+            "surface": "我",
+            "lemma": "我",
+            "traditional": "我",
+            "simplified": "我",
+            "pinyin": "wo3"
+          },
+          {
+            "id": "89b958d4417f8baa:8:1",
+            "position": 1,
+            "type": "hanzi",
+            "surface": "要",
+            "lemma": "要",
+            "traditional": "要",
+            "simplified": "要",
+            "pinyin": "yao4"
+          },
+          {
+            "id": null,
+            "position": 2,
+            "type": "word",
+            "surface": " ",
+            "lemma": " ",
+            "traditional": null,
+            "simplified": null,
+            "pinyin": null
+          },
+          {
+            "id": null,
+            "position": 3,
+            "type": "word",
+            "surface": "walk",
+            "lemma": "walk",
+            "traditional": null,
+            "simplified": null,
+            "pinyin": null
+          },
+          {
+            "id": null,
+            "position": 4,
+            "type": "word",
+            "surface": " ",
+            "lemma": " ",
+            "traditional": null,
+            "simplified": null,
+            "pinyin": null
+          },
+          {
+            "id": null,
+            "position": 5,
+            "type": "word",
+            "surface": "walk",
+            "lemma": "walk",
+            "traditional": null,
+            "simplified": null,
+            "pinyin": null
+          },
+          {
+            "id": null,
+            "position": 6,
+            "type": "word",
+            "surface": " ",
+            "lemma": " ",
+            "traditional": null,
+            "simplified": null,
+            "pinyin": null
+          },
+          {
+            "id": null,
+            "position": 7,
+            "type": "word",
+            "surface": "walk",
+            "lemma": "walk",
+            "traditional": null,
+            "simplified": null,
+            "pinyin": null
+          },
+          {
+            "id": null,
+            "position": 8,
+            "type": "word",
+            "surface": " ",
+            "lemma": " ",
+            "traditional": null,
+            "simplified": null,
+            "pinyin": null
+          },
+          {
+            "id": null,
+            "position": 9,
+            "type": "word",
+            "surface": "in",
+            "lemma": "in",
+            "traditional": null,
+            "simplified": null,
+            "pinyin": null
+          },
+          {
+            "id": null,
+            "position": 10,
+            "type": "word",
+            "surface": " ",
+            "lemma": " ",
+            "traditional": null,
+            "simplified": null,
+            "pinyin": null
+          },
+          {
+            "id": null,
+            "position": 11,
+            "type": "word",
+            "surface": "the",
+            "lemma": "the",
+            "traditional": null,
+            "simplified": null,
+            "pinyin": null
+          },
+          {
+            "id": null,
+            "position": 12,
+            "type": "word",
+            "surface": " ",
+            "lemma": " ",
+            "traditional": null,
+            "simplified": null,
+            "pinyin": null
+          },
+          {
+            "id": null,
+            "position": 13,
+            "type": "word",
+            "surface": "river",
+            "lemma": "river",
+            "traditional": null,
+            "simplified": null,
+            "pinyin": null
+          }
+        ],
+        "render_groups": []
+      },
+      {
+        "line_number": 9,
+        "text": "我要 jump jump jump in the river",
+        "tokens": [
+          {
+            "id": "89b958d4417f8baa:9:0",
+            "position": 0,
+            "type": "hanzi",
+            "surface": "我",
+            "lemma": "我",
+            "traditional": "我",
+            "simplified": "我",
+            "pinyin": "wo3"
+          },
+          {
+            "id": "89b958d4417f8baa:9:1",
+            "position": 1,
+            "type": "hanzi",
+            "surface": "要",
+            "lemma": "要",
+            "traditional": "要",
+            "simplified": "要",
+            "pinyin": "yao4"
+          },
+          {
+            "id": null,
+            "position": 2,
+            "type": "word",
+            "surface": " ",
+            "lemma": " ",
+            "traditional": null,
+            "simplified": null,
+            "pinyin": null
+          },
+          {
+            "id": null,
+            "position": 3,
+            "type": "word",
+            "surface": "jump",
+            "lemma": "jump",
+            "traditional": null,
+            "simplified": null,
+            "pinyin": null
+          },
+          {
+            "id": null,
+            "position": 4,
+            "type": "word",
+            "surface": " ",
+            "lemma": " ",
+            "traditional": null,
+            "simplified": null,
+            "pinyin": null
+          },
+          {
+            "id": null,
+            "position": 5,
+            "type": "word",
+            "surface": "jump",
+            "lemma": "jump",
+            "traditional": null,
+            "simplified": null,
+            "pinyin": null
+          },
+          {
+            "id": null,
+            "position": 6,
+            "type": "word",
+            "surface": " ",
+            "lemma": " ",
+            "traditional": null,
+            "simplified": null,
+            "pinyin": null
+          },
+          {
+            "id": null,
+            "position": 7,
+            "type": "word",
+            "surface": "jump",
+            "lemma": "jump",
+            "traditional": null,
+            "simplified": null,
+            "pinyin": null
+          },
+          {
+            "id": null,
+            "position": 8,
+            "type": "word",
+            "surface": " ",
+            "lemma": " ",
+            "traditional": null,
+            "simplified": null,
+            "pinyin": null
+          },
+          {
+            "id": null,
+            "position": 9,
+            "type": "word",
+            "surface": "in",
+            "lemma": "in",
+            "traditional": null,
+            "simplified": null,
+            "pinyin": null
+          },
+          {
+            "id": null,
+            "position": 10,
+            "type": "word",
+            "surface": " ",
+            "lemma": " ",
+            "traditional": null,
+            "simplified": null,
+            "pinyin": null
+          },
+          {
+            "id": null,
+            "position": 11,
+            "type": "word",
+            "surface": "the",
+            "lemma": "the",
+            "traditional": null,
+            "simplified": null,
+            "pinyin": null
+          },
+          {
+            "id": null,
+            "position": 12,
+            "type": "word",
+            "surface": " ",
+            "lemma": " ",
+            "traditional": null,
+            "simplified": null,
+            "pinyin": null
+          },
+          {
+            "id": null,
+            "position": 13,
+            "type": "word",
+            "surface": "river",
+            "lemma": "river",
+            "traditional": null,
+            "simplified": null,
+            "pinyin": null
+          }
+        ],
+        "render_groups": []
+      },
+      {
+        "line_number": 10,
+        "text": "我要 dance dance dance in the river of joy",
+        "tokens": [
+          {
+            "id": "89b958d4417f8baa:10:0",
+            "position": 0,
+            "type": "hanzi",
+            "surface": "我",
+            "lemma": "我",
+            "traditional": "我",
+            "simplified": "我",
+            "pinyin": "wo3"
+          },
+          {
+            "id": "89b958d4417f8baa:10:1",
+            "position": 1,
+            "type": "hanzi",
+            "surface": "要",
+            "lemma": "要",
+            "traditional": "要",
+            "simplified": "要",
+            "pinyin": "yao4"
+          },
+          {
+            "id": null,
+            "position": 2,
+            "type": "word",
+            "surface": " ",
+            "lemma": " ",
+            "traditional": null,
+            "simplified": null,
+            "pinyin": null
+          },
+          {
+            "id": null,
+            "position": 3,
+            "type": "word",
+            "surface": "dance",
+            "lemma": "dance",
+            "traditional": null,
+            "simplified": null,
+            "pinyin": null
+          },
+          {
+            "id": null,
+            "position": 4,
+            "type": "word",
+            "surface": " ",
+            "lemma": " ",
+            "traditional": null,
+            "simplified": null,
+            "pinyin": null
+          },
+          {
+            "id": null,
+            "position": 5,
+            "type": "word",
+            "surface": "dance",
+            "lemma": "dance",
+            "traditional": null,
+            "simplified": null,
+            "pinyin": null
+          },
+          {
+            "id": null,
+            "position": 6,
+            "type": "word",
+            "surface": " ",
+            "lemma": " ",
+            "traditional": null,
+            "simplified": null,
+            "pinyin": null
+          },
+          {
+            "id": null,
+            "position": 7,
+            "type": "word",
+            "surface": "dance",
+            "lemma": "dance",
+            "traditional": null,
+            "simplified": null,
+            "pinyin": null
+          },
+          {
+            "id": null,
+            "position": 8,
+            "type": "word",
+            "surface": " ",
+            "lemma": " ",
+            "traditional": null,
+            "simplified": null,
+            "pinyin": null
+          },
+          {
+            "id": null,
+            "position": 9,
+            "type": "word",
+            "surface": "in",
+            "lemma": "in",
+            "traditional": null,
+            "simplified": null,
+            "pinyin": null
+          },
+          {
+            "id": null,
+            "position": 10,
+            "type": "word",
+            "surface": " ",
+            "lemma": " ",
+            "traditional": null,
+            "simplified": null,
+            "pinyin": null
+          },
+          {
+            "id": null,
+            "position": 11,
+            "type": "word",
+            "surface": "the",
+            "lemma": "the",
+            "traditional": null,
+            "simplified": null,
+            "pinyin": null
+          },
+          {
+            "id": null,
+            "position": 12,
+            "type": "word",
+            "surface": " ",
+            "lemma": " ",
+            "traditional": null,
+            "simplified": null,
+            "pinyin": null
+          },
+          {
+            "id": null,
+            "position": 13,
+            "type": "word",
+            "surface": "river",
+            "lemma": "river",
+            "traditional": null,
+            "simplified": null,
+            "pinyin": null
+          },
+          {
+            "id": null,
+            "position": 14,
+            "type": "word",
+            "surface": " ",
+            "lemma": " ",
+            "traditional": null,
+            "simplified": null,
+            "pinyin": null
+          },
+          {
+            "id": null,
+            "position": 15,
+            "type": "word",
+            "surface": "of",
+            "lemma": "of",
+            "traditional": null,
+            "simplified": null,
+            "pinyin": null
+          },
+          {
+            "id": null,
+            "position": 16,
+            "type": "word",
+            "surface": " ",
+            "lemma": " ",
+            "traditional": null,
+            "simplified": null,
+            "pinyin": null
+          },
+          {
+            "id": null,
+            "position": 17,
+            "type": "word",
+            "surface": "joy",
+            "lemma": "joy",
+            "traditional": null,
+            "simplified": null,
+            "pinyin": null
+          }
+        ],
+        "render_groups": []
+      }
+    ]
+  }
+}

@@ -1,0 +1,475 @@
+{
+  "song_id": "50d32c7f87569c1c",
+  "title": "我親愛的耶穌 序曲",
+  "album": "展開清晨的翅膀",
+  "composer": "曾祥怡",
+  "lyricist": "",
+  "series": "敬拜讚美 (7)",
+  "key": "D",
+  "spotify_id": "5idytFamiQfD2bTErwhMUa",
+  "spotify_title": "我親愛的耶穌  序曲",
+  "youtube_id": "lAPxa-npdGg",
+  "youtube_title": "【我親愛的耶穌 My Sweet Jesus】 - 讚美之泉弦樂四重奏 (1) String Quartet",
+  "youtube_url": "https://www.youtube.com/watch?v=lAPxa-npdGg",
+  "spotify_url": "https://open.spotify.com/track/5idytFamiQfD2bTErwhMUa",
+  "lyrics_clean": "**此曲無歌詞、吉他和弦和樂譜**\n**This song does not have lyrics, guitar chords, or lead sheet**",
+  "lyrics_tokenized": {
+    "version": 1,
+    "lines": [
+      {
+        "line_number": 1,
+        "text": "**此曲無歌詞、吉他和弦和樂譜**",
+        "tokens": [
+          {
+            "id": null,
+            "position": 0,
+            "type": "word",
+            "surface": "*",
+            "lemma": "*",
+            "traditional": null,
+            "simplified": null,
+            "pinyin": null
+          },
+          {
+            "id": null,
+            "position": 1,
+            "type": "word",
+            "surface": "*",
+            "lemma": "*",
+            "traditional": null,
+            "simplified": null,
+            "pinyin": null
+          },
+          {
+            "id": "50d32c7f87569c1c:1:2",
+            "position": 2,
+            "type": "hanzi",
+            "surface": "此",
+            "lemma": "此",
+            "traditional": "此",
+            "simplified": "此",
+            "pinyin": "ci3"
+          },
+          {
+            "id": "50d32c7f87569c1c:1:3",
+            "position": 3,
+            "type": "hanzi",
+            "surface": "曲",
+            "lemma": "曲",
+            "traditional": "曲",
+            "simplified": "曲",
+            "pinyin": "qu1"
+          },
+          {
+            "id": "50d32c7f87569c1c:1:4",
+            "position": 4,
+            "type": "hanzi",
+            "surface": "無",
+            "lemma": "无",
+            "traditional": "無",
+            "simplified": "无",
+            "pinyin": "wu2"
+          },
+          {
+            "id": "50d32c7f87569c1c:1:5",
+            "position": 5,
+            "type": "hanzi",
+            "surface": "歌",
+            "lemma": "歌",
+            "traditional": "歌",
+            "simplified": "歌",
+            "pinyin": "ge1"
+          },
+          {
+            "id": "50d32c7f87569c1c:1:6",
+            "position": 6,
+            "type": "hanzi",
+            "surface": "詞",
+            "lemma": "词",
+            "traditional": "詞",
+            "simplified": "词",
+            "pinyin": "ci2"
+          },
+          {
+            "id": null,
+            "position": 7,
+            "type": "word",
+            "surface": "、",
+            "lemma": "、",
+            "traditional": null,
+            "simplified": null,
+            "pinyin": null
+          },
+          {
+            "id": "50d32c7f87569c1c:1:8",
+            "position": 8,
+            "type": "hanzi",
+            "surface": "吉",
+            "lemma": "吉",
+            "traditional": "吉",
+            "simplified": "吉",
+            "pinyin": "ji2"
+          },
+          {
+            "id": "50d32c7f87569c1c:1:9",
+            "position": 9,
+            "type": "hanzi",
+            "surface": "他",
+            "lemma": "他",
+            "traditional": "他",
+            "simplified": "他",
+            "pinyin": "ta1"
+          },
+          {
+            "id": "50d32c7f87569c1c:1:10",
+            "position": 10,
+            "type": "hanzi",
+            "surface": "和",
+            "lemma": "和",
+            "traditional": "和",
+            "simplified": "和",
+            "pinyin": "he2"
+          },
+          {
+            "id": "50d32c7f87569c1c:1:11",
+            "position": 11,
+            "type": "hanzi",
+            "surface": "弦",
+            "lemma": "弦",
+            "traditional": "弦",
+            "simplified": "弦",
+            "pinyin": "xian2"
+          },
+          {
+            "id": "50d32c7f87569c1c:1:12",
+            "position": 12,
+            "type": "hanzi",
+            "surface": "和",
+            "lemma": "和",
+            "traditional": "和",
+            "simplified": "和",
+            "pinyin": "he2"
+          },
+          {
+            "id": "50d32c7f87569c1c:1:13",
+            "position": 13,
+            "type": "hanzi",
+            "surface": "樂",
+            "lemma": "乐",
+            "traditional": "樂",
+            "simplified": "乐",
+            "pinyin": "le4"
+          },
+          {
+            "id": "50d32c7f87569c1c:1:14",
+            "position": 14,
+            "type": "hanzi",
+            "surface": "譜",
+            "lemma": "谱",
+            "traditional": "譜",
+            "simplified": "谱",
+            "pinyin": "pu3"
+          },
+          {
+            "id": null,
+            "position": 15,
+            "type": "word",
+            "surface": "*",
+            "lemma": "*",
+            "traditional": null,
+            "simplified": null,
+            "pinyin": null
+          },
+          {
+            "id": null,
+            "position": 16,
+            "type": "word",
+            "surface": "*",
+            "lemma": "*",
+            "traditional": null,
+            "simplified": null,
+            "pinyin": null
+          }
+        ],
+        "render_groups": []
+      },
+      {
+        "line_number": 2,
+        "text": "**This song does not have lyrics, guitar chords, or lead sheet**",
+        "tokens": [
+          {
+            "id": null,
+            "position": 0,
+            "type": "word",
+            "surface": "*",
+            "lemma": "*",
+            "traditional": null,
+            "simplified": null,
+            "pinyin": null
+          },
+          {
+            "id": null,
+            "position": 1,
+            "type": "word",
+            "surface": "*",
+            "lemma": "*",
+            "traditional": null,
+            "simplified": null,
+            "pinyin": null
+          },
+          {
+            "id": null,
+            "position": 2,
+            "type": "word",
+            "surface": "This",
+            "lemma": "this",
+            "traditional": null,
+            "simplified": null,
+            "pinyin": null
+          },
+          {
+            "id": null,
+            "position": 3,
+            "type": "word",
+            "surface": " ",
+            "lemma": " ",
+            "traditional": null,
+            "simplified": null,
+            "pinyin": null
+          },
+          {
+            "id": null,
+            "position": 4,
+            "type": "word",
+            "surface": "song",
+            "lemma": "song",
+            "traditional": null,
+            "simplified": null,
+            "pinyin": null
+          },
+          {
+            "id": null,
+            "position": 5,
+            "type": "word",
+            "surface": " ",
+            "lemma": " ",
+            "traditional": null,
+            "simplified": null,
+            "pinyin": null
+          },
+          {
+            "id": null,
+            "position": 6,
+            "type": "word",
+            "surface": "does",
+            "lemma": "does",
+            "traditional": null,
+            "simplified": null,
+            "pinyin": null
+          },
+          {
+            "id": null,
+            "position": 7,
+            "type": "word",
+            "surface": " ",
+            "lemma": " ",
+            "traditional": null,
+            "simplified": null,
+            "pinyin": null
+          },
+          {
+            "id": null,
+            "position": 8,
+            "type": "word",
+            "surface": "not",
+            "lemma": "not",
+            "traditional": null,
+            "simplified": null,
+            "pinyin": null
+          },
+          {
+            "id": null,
+            "position": 9,
+            "type": "word",
+            "surface": " ",
+            "lemma": " ",
+            "traditional": null,
+            "simplified": null,
+            "pinyin": null
+          },
+          {
+            "id": null,
+            "position": 10,
+            "type": "word",
+            "surface": "have",
+            "lemma": "have",
+            "traditional": null,
+            "simplified": null,
+            "pinyin": null
+          },
+          {
+            "id": null,
+            "position": 11,
+            "type": "word",
+            "surface": " ",
+            "lemma": " ",
+            "traditional": null,
+            "simplified": null,
+            "pinyin": null
+          },
+          {
+            "id": null,
+            "position": 12,
+            "type": "word",
+            "surface": "lyrics",
+            "lemma": "lyrics",
+            "traditional": null,
+            "simplified": null,
+            "pinyin": null
+          },
+          {
+            "id": null,
+            "position": 13,
+            "type": "word",
+            "surface": ",",
+            "lemma": ",",
+            "traditional": null,
+            "simplified": null,
+            "pinyin": null
+          },
+          {
+            "id": null,
+            "position": 14,
+            "type": "word",
+            "surface": " ",
+            "lemma": " ",
+            "traditional": null,
+            "simplified": null,
+            "pinyin": null
+          },
+          {
+            "id": null,
+            "position": 15,
+            "type": "word",
+            "surface": "guitar",
+            "lemma": "guitar",
+            "traditional": null,
+            "simplified": null,
+            "pinyin": null
+          },
+          {
+            "id": null,
+            "position": 16,
+            "type": "word",
+            "surface": " ",
+            "lemma": " ",
+            "traditional": null,
+            "simplified": null,
+            "pinyin": null
+          },
+          {
+            "id": null,
+            "position": 17,
+            "type": "word",
+            "surface": "chords",
+            "lemma": "chords",
+            "traditional": null,
+            "simplified": null,
+            "pinyin": null
+          },
+          {
+            "id": null,
+            "position": 18,
+            "type": "word",
+            "surface": ",",
+            "lemma": ",",
+            "traditional": null,
+            "simplified": null,
+            "pinyin": null
+          },
+          {
+            "id": null,
+            "position": 19,
+            "type": "word",
+            "surface": " ",
+            "lemma": " ",
+            "traditional": null,
+            "simplified": null,
+            "pinyin": null
+          },
+          {
+            "id": null,
+            "position": 20,
+            "type": "word",
+            "surface": "or",
+            "lemma": "or",
+            "traditional": null,
+            "simplified": null,
+            "pinyin": null
+          },
+          {
+            "id": null,
+            "position": 21,
+            "type": "word",
+            "surface": " ",
+            "lemma": " ",
+            "traditional": null,
+            "simplified": null,
+            "pinyin": null
+          },
+          {
+            "id": null,
+            "position": 22,
+            "type": "word",
+            "surface": "lead",
+            "lemma": "lead",
+            "traditional": null,
+            "simplified": null,
+            "pinyin": null
+          },
+          {
+            "id": null,
+            "position": 23,
+            "type": "word",
+            "surface": " ",
+            "lemma": " ",
+            "traditional": null,
+            "simplified": null,
+            "pinyin": null
+          },
+          {
+            "id": null,
+            "position": 24,
+            "type": "word",
+            "surface": "sheet",
+            "lemma": "sheet",
+            "traditional": null,
+            "simplified": null,
+            "pinyin": null
+          },
+          {
+            "id": null,
+            "position": 25,
+            "type": "word",
+            "surface": "*",
+            "lemma": "*",
+            "traditional": null,
+            "simplified": null,
+            "pinyin": null
+          },
+          {
+            "id": null,
+            "position": 26,
+            "type": "word",
+            "surface": "*",
+            "lemma": "*",
+            "traditional": null,
+            "simplified": null,
+            "pinyin": null
+          }
+        ],
+        "render_groups": []
+      }
+    ]
+  }
+}
