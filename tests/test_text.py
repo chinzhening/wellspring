@@ -1,4 +1,4 @@
-from core import text
+from music_pipeline.utility import text
 
 
 def test_clean_lyrics_basic():

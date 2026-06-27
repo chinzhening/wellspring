@@ -1,0 +1,1207 @@
+{
+  "song_id": "863120d52a1c381e",
+  "title": "永活全能的神",
+  "album": "全能的創造主",
+  "composer": "游智婷",
+  "lyricist": "陶曉蕾",
+  "series": "敬拜讚美 (6)",
+  "key": "C",
+  "spotify_id": null,
+  "spotify_title": null,
+  "youtube_id": "qXqXcWDqeZA",
+  "youtube_title": "【永活全能的神 Almighty Living God】官方歌詞版MV (Official Lyrics MV) - 讚美之泉敬拜讚美 (6)",
+  "youtube_url": "https://www.youtube.com/watch?v=qXqXcWDqeZA",
+  "spotify_url": null,
+  "lyrics_clean": "祂已勝過黑暗權勢 祂已超乎天下萬有\n 祂是永活全能的神\n 祂的名要稱為至高 祂的國度滿有榮耀\n 祂是永活全能的神\n哈利路亞 祂已復活\n哈利路亞 祂已得勝\n祂是天上地下萬王之王\n祂是永活全能的神\n祂是天上地下萬王之王\n祂是永活全能的神",
+  "lyrics_tokenized": {
+    "version": 1,
+    "lines": [
+      {
+        "line_number": 1,
+        "text": "祂已勝過黑暗權勢 祂已超乎天下萬有",
+        "tokens": [
+          {
+            "id": "863120d52a1c381e:1:0",
+            "position": 0,
+            "type": "hanzi",
+            "surface": "祂",
+            "lemma": "祂",
+            "traditional": "祂",
+            "simplified": "祂",
+            "pinyin": "ta1"
+          },
+          {
+            "id": "863120d52a1c381e:1:1",
+            "position": 1,
+            "type": "hanzi",
+            "surface": "已",
+            "lemma": "已",
+            "traditional": "已",
+            "simplified": "已",
+            "pinyin": "yi3"
+          },
+          {
+            "id": "863120d52a1c381e:1:2",
+            "position": 2,
+            "type": "hanzi",
+            "surface": "勝",
+            "lemma": "胜",
+            "traditional": "勝",
+            "simplified": "胜",
+            "pinyin": "sheng4"
+          },
+          {
+            "id": "863120d52a1c381e:1:3",
+            "position": 3,
+            "type": "hanzi",
+            "surface": "過",
+            "lemma": "过",
+            "traditional": "過",
+            "simplified": "过",
+            "pinyin": "guo4"
+          },
+          {
+            "id": "863120d52a1c381e:1:4",
+            "position": 4,
+            "type": "hanzi",
+            "surface": "黑",
+            "lemma": "黑",
+            "traditional": "黑",
+            "simplified": "黑",
+            "pinyin": "hei1"
+          },
+          {
+            "id": "863120d52a1c381e:1:5",
+            "position": 5,
+            "type": "hanzi",
+            "surface": "暗",
+            "lemma": "暗",
+            "traditional": "暗",
+            "simplified": "暗",
+            "pinyin": "an4"
+          },
+          {
+            "id": "863120d52a1c381e:1:6",
+            "position": 6,
+            "type": "hanzi",
+            "surface": "權",
+            "lemma": "权",
+            "traditional": "權",
+            "simplified": "权",
+            "pinyin": "quan2"
+          },
+          {
+            "id": "863120d52a1c381e:1:7",
+            "position": 7,
+            "type": "hanzi",
+            "surface": "勢",
+            "lemma": "势",
+            "traditional": "勢",
+            "simplified": "势",
+            "pinyin": "shi4"
+          },
+          {
+            "id": null,
+            "position": 8,
+            "type": "word",
+            "surface": " ",
+            "lemma": " ",
+            "traditional": null,
+            "simplified": null,
+            "pinyin": null
+          },
+          {
+            "id": "863120d52a1c381e:1:9",
+            "position": 9,
+            "type": "hanzi",
+            "surface": "祂",
+            "lemma": "祂",
+            "traditional": "祂",
+            "simplified": "祂",
+            "pinyin": "ta1"
+          },
+          {
+            "id": "863120d52a1c381e:1:10",
+            "position": 10,
+            "type": "hanzi",
+            "surface": "已",
+            "lemma": "已",
+            "traditional": "已",
+            "simplified": "已",
+            "pinyin": "yi3"
+          },
+          {
+            "id": "863120d52a1c381e:1:11",
+            "position": 11,
+            "type": "hanzi",
+            "surface": "超",
+            "lemma": "超",
+            "traditional": "超",
+            "simplified": "超",
+            "pinyin": "chao1"
+          },
+          {
+            "id": "863120d52a1c381e:1:12",
+            "position": 12,
+            "type": "hanzi",
+            "surface": "乎",
+            "lemma": "乎",
+            "traditional": "乎",
+            "simplified": "乎",
+            "pinyin": "hu1"
+          },
+          {
+            "id": "863120d52a1c381e:1:13",
+            "position": 13,
+            "type": "hanzi",
+            "surface": "天",
+            "lemma": "天",
+            "traditional": "天",
+            "simplified": "天",
+            "pinyin": "tian1"
+          },
+          {
+            "id": "863120d52a1c381e:1:14",
+            "position": 14,
+            "type": "hanzi",
+            "surface": "下",
+            "lemma": "下",
+            "traditional": "下",
+            "simplified": "下",
+            "pinyin": "xia4"
+          },
+          {
+            "id": "863120d52a1c381e:1:15",
+            "position": 15,
+            "type": "hanzi",
+            "surface": "萬",
+            "lemma": "万",
+            "traditional": "萬",
+            "simplified": "万",
+            "pinyin": "wan4"
+          },
+          {
+            "id": "863120d52a1c381e:1:16",
+            "position": 16,
+            "type": "hanzi",
+            "surface": "有",
+            "lemma": "有",
+            "traditional": "有",
+            "simplified": "有",
+            "pinyin": "you3"
+          }
+        ],
+        "render_groups": [
+          {
+            "term_id": "5647f3436814e036",
+            "term": "權勢",
+            "start": 6,
+            "end": 7
+          }
+        ]
+      },
+      {
+        "line_number": 2,
+        "text": "祂是永活全能的神",
+        "tokens": [
+          {
+            "id": "863120d52a1c381e:2:0",
+            "position": 0,
+            "type": "hanzi",
+            "surface": "祂",
+            "lemma": "祂",
+            "traditional": "祂",
+            "simplified": "祂",
+            "pinyin": "ta1"
+          },
+          {
+            "id": "863120d52a1c381e:2:1",
+            "position": 1,
+            "type": "hanzi",
+            "surface": "是",
+            "lemma": "是",
+            "traditional": "是",
+            "simplified": "是",
+            "pinyin": "shi4"
+          },
+          {
+            "id": "863120d52a1c381e:2:2",
+            "position": 2,
+            "type": "hanzi",
+            "surface": "永",
+            "lemma": "永",
+            "traditional": "永",
+            "simplified": "永",
+            "pinyin": "yong3"
+          },
+          {
+            "id": "863120d52a1c381e:2:3",
+            "position": 3,
+            "type": "hanzi",
+            "surface": "活",
+            "lemma": "活",
+            "traditional": "活",
+            "simplified": "活",
+            "pinyin": "huo2"
+          },
+          {
+            "id": "863120d52a1c381e:2:4",
+            "position": 4,
+            "type": "hanzi",
+            "surface": "全",
+            "lemma": "全",
+            "traditional": "全",
+            "simplified": "全",
+            "pinyin": "quan2"
+          },
+          {
+            "id": "863120d52a1c381e:2:5",
+            "position": 5,
+            "type": "hanzi",
+            "surface": "能",
+            "lemma": "能",
+            "traditional": "能",
+            "simplified": "能",
+            "pinyin": "neng2"
+          },
+          {
+            "id": "863120d52a1c381e:2:6",
+            "position": 6,
+            "type": "hanzi",
+            "surface": "的",
+            "lemma": "的",
+            "traditional": "的",
+            "simplified": "的",
+            "pinyin": "de"
+          },
+          {
+            "id": "863120d52a1c381e:2:7",
+            "position": 7,
+            "type": "hanzi",
+            "surface": "神",
+            "lemma": "神",
+            "traditional": "神",
+            "simplified": "神",
+            "pinyin": "shen2"
+          }
+        ],
+        "render_groups": [
+          {
+            "term_id": "9ebc3caaaa40ed77",
+            "term": "全能",
+            "start": 4,
+            "end": 5
+          }
+        ]
+      },
+      {
+        "line_number": 3,
+        "text": "祂的名要稱為至高 祂的國度滿有榮耀",
+        "tokens": [
+          {
+            "id": "863120d52a1c381e:3:0",
+            "position": 0,
+            "type": "hanzi",
+            "surface": "祂",
+            "lemma": "祂",
+            "traditional": "祂",
+            "simplified": "祂",
+            "pinyin": "ta1"
+          },
+          {
+            "id": "863120d52a1c381e:3:1",
+            "position": 1,
+            "type": "hanzi",
+            "surface": "的",
+            "lemma": "的",
+            "traditional": "的",
+            "simplified": "的",
+            "pinyin": "de"
+          },
+          {
+            "id": "863120d52a1c381e:3:2",
+            "position": 2,
+            "type": "hanzi",
+            "surface": "名",
+            "lemma": "名",
+            "traditional": "名",
+            "simplified": "名",
+            "pinyin": "ming2"
+          },
+          {
+            "id": "863120d52a1c381e:3:3",
+            "position": 3,
+            "type": "hanzi",
+            "surface": "要",
+            "lemma": "要",
+            "traditional": "要",
+            "simplified": "要",
+            "pinyin": "yao4"
+          },
+          {
+            "id": "863120d52a1c381e:3:4",
+            "position": 4,
+            "type": "hanzi",
+            "surface": "稱",
+            "lemma": "称",
+            "traditional": "稱",
+            "simplified": "称",
+            "pinyin": "cheng1"
+          },
+          {
+            "id": "863120d52a1c381e:3:5",
+            "position": 5,
+            "type": "hanzi",
+            "surface": "為",
+            "lemma": "为",
+            "traditional": "為",
+            "simplified": "为",
+            "pinyin": "wei4"
+          },
+          {
+            "id": "863120d52a1c381e:3:6",
+            "position": 6,
+            "type": "hanzi",
+            "surface": "至",
+            "lemma": "至",
+            "traditional": "至",
+            "simplified": "至",
+            "pinyin": "zhi4"
+          },
+          {
+            "id": "863120d52a1c381e:3:7",
+            "position": 7,
+            "type": "hanzi",
+            "surface": "高",
+            "lemma": "高",
+            "traditional": "高",
+            "simplified": "高",
+            "pinyin": "gao1"
+          },
+          {
+            "id": null,
+            "position": 8,
+            "type": "word",
+            "surface": " ",
+            "lemma": " ",
+            "traditional": null,
+            "simplified": null,
+            "pinyin": null
+          },
+          {
+            "id": "863120d52a1c381e:3:9",
+            "position": 9,
+            "type": "hanzi",
+            "surface": "祂",
+            "lemma": "祂",
+            "traditional": "祂",
+            "simplified": "祂",
+            "pinyin": "ta1"
+          },
+          {
+            "id": "863120d52a1c381e:3:10",
+            "position": 10,
+            "type": "hanzi",
+            "surface": "的",
+            "lemma": "的",
+            "traditional": "的",
+            "simplified": "的",
+            "pinyin": "de"
+          },
+          {
+            "id": "863120d52a1c381e:3:11",
+            "position": 11,
+            "type": "hanzi",
+            "surface": "國",
+            "lemma": "国",
+            "traditional": "國",
+            "simplified": "国",
+            "pinyin": "guo2"
+          },
+          {
+            "id": "863120d52a1c381e:3:12",
+            "position": 12,
+            "type": "hanzi",
+            "surface": "度",
+            "lemma": "度",
+            "traditional": "度",
+            "simplified": "度",
+            "pinyin": "du4"
+          },
+          {
+            "id": "863120d52a1c381e:3:13",
+            "position": 13,
+            "type": "hanzi",
+            "surface": "滿",
+            "lemma": "满",
+            "traditional": "滿",
+            "simplified": "满",
+            "pinyin": "man3"
+          },
+          {
+            "id": "863120d52a1c381e:3:14",
+            "position": 14,
+            "type": "hanzi",
+            "surface": "有",
+            "lemma": "有",
+            "traditional": "有",
+            "simplified": "有",
+            "pinyin": "you3"
+          },
+          {
+            "id": "863120d52a1c381e:3:15",
+            "position": 15,
+            "type": "hanzi",
+            "surface": "榮",
+            "lemma": "荣",
+            "traditional": "榮",
+            "simplified": "荣",
+            "pinyin": "rong2"
+          },
+          {
+            "id": "863120d52a1c381e:3:16",
+            "position": 16,
+            "type": "hanzi",
+            "surface": "耀",
+            "lemma": "耀",
+            "traditional": "耀",
+            "simplified": "耀",
+            "pinyin": "yao4"
+          }
+        ],
+        "render_groups": [
+          {
+            "term_id": "d495d5cd7eeb1cea",
+            "term": "國度",
+            "start": 11,
+            "end": 12
+          },
+          {
+            "term_id": "4f0eea448c61f8b9",
+            "term": "榮耀",
+            "start": 15,
+            "end": 16
+          }
+        ]
+      },
+      {
+        "line_number": 4,
+        "text": "祂是永活全能的神",
+        "tokens": [
+          {
+            "id": "863120d52a1c381e:4:0",
+            "position": 0,
+            "type": "hanzi",
+            "surface": "祂",
+            "lemma": "祂",
+            "traditional": "祂",
+            "simplified": "祂",
+            "pinyin": "ta1"
+          },
+          {
+            "id": "863120d52a1c381e:4:1",
+            "position": 1,
+            "type": "hanzi",
+            "surface": "是",
+            "lemma": "是",
+            "traditional": "是",
+            "simplified": "是",
+            "pinyin": "shi4"
+          },
+          {
+            "id": "863120d52a1c381e:4:2",
+            "position": 2,
+            "type": "hanzi",
+            "surface": "永",
+            "lemma": "永",
+            "traditional": "永",
+            "simplified": "永",
+            "pinyin": "yong3"
+          },
+          {
+            "id": "863120d52a1c381e:4:3",
+            "position": 3,
+            "type": "hanzi",
+            "surface": "活",
+            "lemma": "活",
+            "traditional": "活",
+            "simplified": "活",
+            "pinyin": "huo2"
+          },
+          {
+            "id": "863120d52a1c381e:4:4",
+            "position": 4,
+            "type": "hanzi",
+            "surface": "全",
+            "lemma": "全",
+            "traditional": "全",
+            "simplified": "全",
+            "pinyin": "quan2"
+          },
+          {
+            "id": "863120d52a1c381e:4:5",
+            "position": 5,
+            "type": "hanzi",
+            "surface": "能",
+            "lemma": "能",
+            "traditional": "能",
+            "simplified": "能",
+            "pinyin": "neng2"
+          },
+          {
+            "id": "863120d52a1c381e:4:6",
+            "position": 6,
+            "type": "hanzi",
+            "surface": "的",
+            "lemma": "的",
+            "traditional": "的",
+            "simplified": "的",
+            "pinyin": "de"
+          },
+          {
+            "id": "863120d52a1c381e:4:7",
+            "position": 7,
+            "type": "hanzi",
+            "surface": "神",
+            "lemma": "神",
+            "traditional": "神",
+            "simplified": "神",
+            "pinyin": "shen2"
+          }
+        ],
+        "render_groups": [
+          {
+            "term_id": "9ebc3caaaa40ed77",
+            "term": "全能",
+            "start": 4,
+            "end": 5
+          }
+        ]
+      },
+      {
+        "line_number": 5,
+        "text": "哈利路亞 祂已復活",
+        "tokens": [
+          {
+            "id": "863120d52a1c381e:5:0",
+            "position": 0,
+            "type": "hanzi",
+            "surface": "哈",
+            "lemma": "哈",
+            "traditional": "哈",
+            "simplified": "哈",
+            "pinyin": "ha1"
+          },
+          {
+            "id": "863120d52a1c381e:5:1",
+            "position": 1,
+            "type": "hanzi",
+            "surface": "利",
+            "lemma": "利",
+            "traditional": "利",
+            "simplified": "利",
+            "pinyin": "li4"
+          },
+          {
+            "id": "863120d52a1c381e:5:2",
+            "position": 2,
+            "type": "hanzi",
+            "surface": "路",
+            "lemma": "路",
+            "traditional": "路",
+            "simplified": "路",
+            "pinyin": "lu4"
+          },
+          {
+            "id": "863120d52a1c381e:5:3",
+            "position": 3,
+            "type": "hanzi",
+            "surface": "亞",
+            "lemma": "亚",
+            "traditional": "亞",
+            "simplified": "亚",
+            "pinyin": "ya4"
+          },
+          {
+            "id": null,
+            "position": 4,
+            "type": "word",
+            "surface": " ",
+            "lemma": " ",
+            "traditional": null,
+            "simplified": null,
+            "pinyin": null
+          },
+          {
+            "id": "863120d52a1c381e:5:5",
+            "position": 5,
+            "type": "hanzi",
+            "surface": "祂",
+            "lemma": "祂",
+            "traditional": "祂",
+            "simplified": "祂",
+            "pinyin": "ta1"
+          },
+          {
+            "id": "863120d52a1c381e:5:6",
+            "position": 6,
+            "type": "hanzi",
+            "surface": "已",
+            "lemma": "已",
+            "traditional": "已",
+            "simplified": "已",
+            "pinyin": "yi3"
+          },
+          {
+            "id": "863120d52a1c381e:5:7",
+            "position": 7,
+            "type": "hanzi",
+            "surface": "復",
+            "lemma": "复",
+            "traditional": "復",
+            "simplified": "复",
+            "pinyin": "fu4"
+          },
+          {
+            "id": "863120d52a1c381e:5:8",
+            "position": 8,
+            "type": "hanzi",
+            "surface": "活",
+            "lemma": "活",
+            "traditional": "活",
+            "simplified": "活",
+            "pinyin": "huo2"
+          }
+        ],
+        "render_groups": [
+          {
+            "term_id": "b969da5ea23f59fe",
+            "term": "哈利路亞",
+            "start": 0,
+            "end": 3
+          }
+        ]
+      },
+      {
+        "line_number": 6,
+        "text": "哈利路亞 祂已得勝",
+        "tokens": [
+          {
+            "id": "863120d52a1c381e:6:0",
+            "position": 0,
+            "type": "hanzi",
+            "surface": "哈",
+            "lemma": "哈",
+            "traditional": "哈",
+            "simplified": "哈",
+            "pinyin": "ha1"
+          },
+          {
+            "id": "863120d52a1c381e:6:1",
+            "position": 1,
+            "type": "hanzi",
+            "surface": "利",
+            "lemma": "利",
+            "traditional": "利",
+            "simplified": "利",
+            "pinyin": "li4"
+          },
+          {
+            "id": "863120d52a1c381e:6:2",
+            "position": 2,
+            "type": "hanzi",
+            "surface": "路",
+            "lemma": "路",
+            "traditional": "路",
+            "simplified": "路",
+            "pinyin": "lu4"
+          },
+          {
+            "id": "863120d52a1c381e:6:3",
+            "position": 3,
+            "type": "hanzi",
+            "surface": "亞",
+            "lemma": "亚",
+            "traditional": "亞",
+            "simplified": "亚",
+            "pinyin": "ya4"
+          },
+          {
+            "id": null,
+            "position": 4,
+            "type": "word",
+            "surface": " ",
+            "lemma": " ",
+            "traditional": null,
+            "simplified": null,
+            "pinyin": null
+          },
+          {
+            "id": "863120d52a1c381e:6:5",
+            "position": 5,
+            "type": "hanzi",
+            "surface": "祂",
+            "lemma": "祂",
+            "traditional": "祂",
+            "simplified": "祂",
+            "pinyin": "ta1"
+          },
+          {
+            "id": "863120d52a1c381e:6:6",
+            "position": 6,
+            "type": "hanzi",
+            "surface": "已",
+            "lemma": "已",
+            "traditional": "已",
+            "simplified": "已",
+            "pinyin": "yi3"
+          },
+          {
+            "id": "863120d52a1c381e:6:7",
+            "position": 7,
+            "type": "hanzi",
+            "surface": "得",
+            "lemma": "得",
+            "traditional": "得",
+            "simplified": "得",
+            "pinyin": "de2"
+          },
+          {
+            "id": "863120d52a1c381e:6:8",
+            "position": 8,
+            "type": "hanzi",
+            "surface": "勝",
+            "lemma": "胜",
+            "traditional": "勝",
+            "simplified": "胜",
+            "pinyin": "sheng4"
+          }
+        ],
+        "render_groups": [
+          {
+            "term_id": "b969da5ea23f59fe",
+            "term": "哈利路亞",
+            "start": 0,
+            "end": 3
+          }
+        ]
+      },
+      {
+        "line_number": 7,
+        "text": "祂是天上地下萬王之王",
+        "tokens": [
+          {
+            "id": "863120d52a1c381e:7:0",
+            "position": 0,
+            "type": "hanzi",
+            "surface": "祂",
+            "lemma": "祂",
+            "traditional": "祂",
+            "simplified": "祂",
+            "pinyin": "ta1"
+          },
+          {
+            "id": "863120d52a1c381e:7:1",
+            "position": 1,
+            "type": "hanzi",
+            "surface": "是",
+            "lemma": "是",
+            "traditional": "是",
+            "simplified": "是",
+            "pinyin": "shi4"
+          },
+          {
+            "id": "863120d52a1c381e:7:2",
+            "position": 2,
+            "type": "hanzi",
+            "surface": "天",
+            "lemma": "天",
+            "traditional": "天",
+            "simplified": "天",
+            "pinyin": "tian1"
+          },
+          {
+            "id": "863120d52a1c381e:7:3",
+            "position": 3,
+            "type": "hanzi",
+            "surface": "上",
+            "lemma": "上",
+            "traditional": "上",
+            "simplified": "上",
+            "pinyin": "shang4"
+          },
+          {
+            "id": "863120d52a1c381e:7:4",
+            "position": 4,
+            "type": "hanzi",
+            "surface": "地",
+            "lemma": "地",
+            "traditional": "地",
+            "simplified": "地",
+            "pinyin": "di4"
+          },
+          {
+            "id": "863120d52a1c381e:7:5",
+            "position": 5,
+            "type": "hanzi",
+            "surface": "下",
+            "lemma": "下",
+            "traditional": "下",
+            "simplified": "下",
+            "pinyin": "xia4"
+          },
+          {
+            "id": "863120d52a1c381e:7:6",
+            "position": 6,
+            "type": "hanzi",
+            "surface": "萬",
+            "lemma": "万",
+            "traditional": "萬",
+            "simplified": "万",
+            "pinyin": "wan4"
+          },
+          {
+            "id": "863120d52a1c381e:7:7",
+            "position": 7,
+            "type": "hanzi",
+            "surface": "王",
+            "lemma": "王",
+            "traditional": "王",
+            "simplified": "王",
+            "pinyin": "wang2"
+          },
+          {
+            "id": "863120d52a1c381e:7:8",
+            "position": 8,
+            "type": "hanzi",
+            "surface": "之",
+            "lemma": "之",
+            "traditional": "之",
+            "simplified": "之",
+            "pinyin": "zhi1"
+          },
+          {
+            "id": "863120d52a1c381e:7:9",
+            "position": 9,
+            "type": "hanzi",
+            "surface": "王",
+            "lemma": "王",
+            "traditional": "王",
+            "simplified": "王",
+            "pinyin": "wang2"
+          }
+        ],
+        "render_groups": [
+          {
+            "term_id": "c84a62d3ee3a900e",
+            "term": "萬王之王",
+            "start": 6,
+            "end": 9
+          }
+        ]
+      },
+      {
+        "line_number": 8,
+        "text": "祂是永活全能的神",
+        "tokens": [
+          {
+            "id": "863120d52a1c381e:8:0",
+            "position": 0,
+            "type": "hanzi",
+            "surface": "祂",
+            "lemma": "祂",
+            "traditional": "祂",
+            "simplified": "祂",
+            "pinyin": "ta1"
+          },
+          {
+            "id": "863120d52a1c381e:8:1",
+            "position": 1,
+            "type": "hanzi",
+            "surface": "是",
+            "lemma": "是",
+            "traditional": "是",
+            "simplified": "是",
+            "pinyin": "shi4"
+          },
+          {
+            "id": "863120d52a1c381e:8:2",
+            "position": 2,
+            "type": "hanzi",
+            "surface": "永",
+            "lemma": "永",
+            "traditional": "永",
+            "simplified": "永",
+            "pinyin": "yong3"
+          },
+          {
+            "id": "863120d52a1c381e:8:3",
+            "position": 3,
+            "type": "hanzi",
+            "surface": "活",
+            "lemma": "活",
+            "traditional": "活",
+            "simplified": "活",
+            "pinyin": "huo2"
+          },
+          {
+            "id": "863120d52a1c381e:8:4",
+            "position": 4,
+            "type": "hanzi",
+            "surface": "全",
+            "lemma": "全",
+            "traditional": "全",
+            "simplified": "全",
+            "pinyin": "quan2"
+          },
+          {
+            "id": "863120d52a1c381e:8:5",
+            "position": 5,
+            "type": "hanzi",
+            "surface": "能",
+            "lemma": "能",
+            "traditional": "能",
+            "simplified": "能",
+            "pinyin": "neng2"
+          },
+          {
+            "id": "863120d52a1c381e:8:6",
+            "position": 6,
+            "type": "hanzi",
+            "surface": "的",
+            "lemma": "的",
+            "traditional": "的",
+            "simplified": "的",
+            "pinyin": "de"
+          },
+          {
+            "id": "863120d52a1c381e:8:7",
+            "position": 7,
+            "type": "hanzi",
+            "surface": "神",
+            "lemma": "神",
+            "traditional": "神",
+            "simplified": "神",
+            "pinyin": "shen2"
+          }
+        ],
+        "render_groups": [
+          {
+            "term_id": "9ebc3caaaa40ed77",
+            "term": "全能",
+            "start": 4,
+            "end": 5
+          }
+        ]
+      },
+      {
+        "line_number": 9,
+        "text": "祂是天上地下萬王之王",
+        "tokens": [
+          {
+            "id": "863120d52a1c381e:9:0",
+            "position": 0,
+            "type": "hanzi",
+            "surface": "祂",
+            "lemma": "祂",
+            "traditional": "祂",
+            "simplified": "祂",
+            "pinyin": "ta1"
+          },
+          {
+            "id": "863120d52a1c381e:9:1",
+            "position": 1,
+            "type": "hanzi",
+            "surface": "是",
+            "lemma": "是",
+            "traditional": "是",
+            "simplified": "是",
+            "pinyin": "shi4"
+          },
+          {
+            "id": "863120d52a1c381e:9:2",
+            "position": 2,
+            "type": "hanzi",
+            "surface": "天",
+            "lemma": "天",
+            "traditional": "天",
+            "simplified": "天",
+            "pinyin": "tian1"
+          },
+          {
+            "id": "863120d52a1c381e:9:3",
+            "position": 3,
+            "type": "hanzi",
+            "surface": "上",
+            "lemma": "上",
+            "traditional": "上",
+            "simplified": "上",
+            "pinyin": "shang4"
+          },
+          {
+            "id": "863120d52a1c381e:9:4",
+            "position": 4,
+            "type": "hanzi",
+            "surface": "地",
+            "lemma": "地",
+            "traditional": "地",
+            "simplified": "地",
+            "pinyin": "di4"
+          },
+          {
+            "id": "863120d52a1c381e:9:5",
+            "position": 5,
+            "type": "hanzi",
+            "surface": "下",
+            "lemma": "下",
+            "traditional": "下",
+            "simplified": "下",
+            "pinyin": "xia4"
+          },
+          {
+            "id": "863120d52a1c381e:9:6",
+            "position": 6,
+            "type": "hanzi",
+            "surface": "萬",
+            "lemma": "万",
+            "traditional": "萬",
+            "simplified": "万",
+            "pinyin": "wan4"
+          },
+          {
+            "id": "863120d52a1c381e:9:7",
+            "position": 7,
+            "type": "hanzi",
+            "surface": "王",
+            "lemma": "王",
+            "traditional": "王",
+            "simplified": "王",
+            "pinyin": "wang2"
+          },
+          {
+            "id": "863120d52a1c381e:9:8",
+            "position": 8,
+            "type": "hanzi",
+            "surface": "之",
+            "lemma": "之",
+            "traditional": "之",
+            "simplified": "之",
+            "pinyin": "zhi1"
+          },
+          {
+            "id": "863120d52a1c381e:9:9",
+            "position": 9,
+            "type": "hanzi",
+            "surface": "王",
+            "lemma": "王",
+            "traditional": "王",
+            "simplified": "王",
+            "pinyin": "wang2"
+          }
+        ],
+        "render_groups": [
+          {
+            "term_id": "c84a62d3ee3a900e",
+            "term": "萬王之王",
+            "start": 6,
+            "end": 9
+          }
+        ]
+      },
+      {
+        "line_number": 10,
+        "text": "祂是永活全能的神",
+        "tokens": [
+          {
+            "id": "863120d52a1c381e:10:0",
+            "position": 0,
+            "type": "hanzi",
+            "surface": "祂",
+            "lemma": "祂",
+            "traditional": "祂",
+            "simplified": "祂",
+            "pinyin": "ta1"
+          },
+          {
+            "id": "863120d52a1c381e:10:1",
+            "position": 1,
+            "type": "hanzi",
+            "surface": "是",
+            "lemma": "是",
+            "traditional": "是",
+            "simplified": "是",
+            "pinyin": "shi4"
+          },
+          {
+            "id": "863120d52a1c381e:10:2",
+            "position": 2,
+            "type": "hanzi",
+            "surface": "永",
+            "lemma": "永",
+            "traditional": "永",
+            "simplified": "永",
+            "pinyin": "yong3"
+          },
+          {
+            "id": "863120d52a1c381e:10:3",
+            "position": 3,
+            "type": "hanzi",
+            "surface": "活",
+            "lemma": "活",
+            "traditional": "活",
+            "simplified": "活",
+            "pinyin": "huo2"
+          },
+          {
+            "id": "863120d52a1c381e:10:4",
+            "position": 4,
+            "type": "hanzi",
+            "surface": "全",
+            "lemma": "全",
+            "traditional": "全",
+            "simplified": "全",
+            "pinyin": "quan2"
+          },
+          {
+            "id": "863120d52a1c381e:10:5",
+            "position": 5,
+            "type": "hanzi",
+            "surface": "能",
+            "lemma": "能",
+            "traditional": "能",
+            "simplified": "能",
+            "pinyin": "neng2"
+          },
+          {
+            "id": "863120d52a1c381e:10:6",
+            "position": 6,
+            "type": "hanzi",
+            "surface": "的",
+            "lemma": "的",
+            "traditional": "的",
+            "simplified": "的",
+            "pinyin": "de"
+          },
+          {
+            "id": "863120d52a1c381e:10:7",
+            "position": 7,
+            "type": "hanzi",
+            "surface": "神",
+            "lemma": "神",
+            "traditional": "神",
+            "simplified": "神",
+            "pinyin": "shen2"
+          }
+        ],
+        "render_groups": [
+          {
+            "term_id": "9ebc3caaaa40ed77",
+            "term": "全能",
+            "start": 4,
+            "end": 5
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -5,20 +5,23 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.14"
 dependencies = [
+    "dagster>=1.13.9",
+    "dagster-dg-cli>=1.13.9",
+    "dagster-gemini>=0.0.6",
+    "dagster-webserver>=1.13.9",
     "datetime>=6.0",
     "google-api-python-client>=2.197.0",
+    "google-genai>=2.8.0",
     "jieba>=0.42.1",
     "opencc-python-reimplemented>=0.1.7",
     "pandas>=3.0.3",
-    "pgvector>=0.4.2",
     "playwright>=1.60.0",
-    "psycopg[binary]>=3.3.4",
+    "polars>=1.42.0",
+    "pyahocorasick>=2.3.1",
     "pydantic>=2.13.4",
     "pydantic-settings>=2.14.1",
     "pypinyin>=0.55.0",
     "regex>=2026.5.9",
-    "requests>=2.34.2",
-    "sqlalchemy>=2.0.50",
 ]
 
 [build-system]
@@ -30,6 +33,12 @@ package-dir = {"" = "src"}
 
 [tool.setuptools.packages.find]
 where = ["src"]
+
+[tool.dg]
+directory_type = "project"
+
+[tool.dg.project]
+root_module = "music_pipeline"
 
 [tool.pytest.ini_options]
 testpaths = ["tests"]
@@ -51,7 +60,7 @@ ignore = [
 ]
 
 [tool.ruff.lint.isort]
-known-first-party = ["core", "pipeline"]  # treats your src packages as first-party
+known-first-party = ["music_pipeline"]  # treats your src packages as first-party
 
 [tool.ruff.format]
 quote-style = "double"

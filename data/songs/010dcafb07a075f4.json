@@ -1,0 +1,1231 @@
+{
+  "song_id": "010dcafb07a075f4",
+  "title": "差遣我",
+  "album": "彩虹",
+  "composer": "周巽倩",
+  "lyricist": "周巽倩",
+  "series": "兒童敬拜讚美 (7)",
+  "key": "G",
+  "spotify_id": "6EyuMc8S5lOt0eUSHx8Siu",
+  "spotify_title": "差遣我",
+  "youtube_id": "qJwNJjRg450",
+  "youtube_title": "【差遣我 Send Me, Lord】官方歌詞版MV (Official Lyrics MV) - 讚美之泉G.L.O.W 系列專輯 (1)",
+  "youtube_url": "https://www.youtube.com/watch?v=qJwNJjRg450",
+  "spotify_url": "https://open.spotify.com/track/6EyuMc8S5lOt0eUSHx8Siu",
+  "lyrics_clean": "主告訴我 如何獻上我的生命 \n帶希望入人群中\n主告訴我 如何付出我的關懷 \n將溫暖帶入世界\n我看到靈魂中的憂傷\n孤獨中人的心在角落顫抖\n差遣我 差遣我 我願付出我所有\n差遣我 到需要祢的人群中\n充滿我 充滿我 用祢愛來充滿我\n再一次 緊握他們的手",
+  "lyrics_tokenized": {
+    "version": 1,
+    "lines": [
+      {
+        "line_number": 1,
+        "text": "主告訴我 如何獻上我的生命",
+        "tokens": [
+          {
+            "id": "010dcafb07a075f4:1:0",
+            "position": 0,
+            "type": "hanzi",
+            "surface": "主",
+            "lemma": "主",
+            "traditional": "主",
+            "simplified": "主",
+            "pinyin": "zhu3"
+          },
+          {
+            "id": "010dcafb07a075f4:1:1",
+            "position": 1,
+            "type": "hanzi",
+            "surface": "告",
+            "lemma": "告",
+            "traditional": "告",
+            "simplified": "告",
+            "pinyin": "gao4"
+          },
+          {
+            "id": "010dcafb07a075f4:1:2",
+            "position": 2,
+            "type": "hanzi",
+            "surface": "訴",
+            "lemma": "诉",
+            "traditional": "訴",
+            "simplified": "诉",
+            "pinyin": "su4"
+          },
+          {
+            "id": "010dcafb07a075f4:1:3",
+            "position": 3,
+            "type": "hanzi",
+            "surface": "我",
+            "lemma": "我",
+            "traditional": "我",
+            "simplified": "我",
+            "pinyin": "wo3"
+          },
+          {
+            "id": null,
+            "position": 4,
+            "type": "word",
+            "surface": " ",
+            "lemma": " ",
+            "traditional": null,
+            "simplified": null,
+            "pinyin": null
+          },
+          {
+            "id": "010dcafb07a075f4:1:5",
+            "position": 5,
+            "type": "hanzi",
+            "surface": "如",
+            "lemma": "如",
+            "traditional": "如",
+            "simplified": "如",
+            "pinyin": "ru2"
+          },
+          {
+            "id": "010dcafb07a075f4:1:6",
+            "position": 6,
+            "type": "hanzi",
+            "surface": "何",
+            "lemma": "何",
+            "traditional": "何",
+            "simplified": "何",
+            "pinyin": "he2"
+          },
+          {
+            "id": "010dcafb07a075f4:1:7",
+            "position": 7,
+            "type": "hanzi",
+            "surface": "獻",
+            "lemma": "献",
+            "traditional": "獻",
+            "simplified": "献",
+            "pinyin": "xian4"
+          },
+          {
+            "id": "010dcafb07a075f4:1:8",
+            "position": 8,
+            "type": "hanzi",
+            "surface": "上",
+            "lemma": "上",
+            "traditional": "上",
+            "simplified": "上",
+            "pinyin": "shang4"
+          },
+          {
+            "id": "010dcafb07a075f4:1:9",
+            "position": 9,
+            "type": "hanzi",
+            "surface": "我",
+            "lemma": "我",
+            "traditional": "我",
+            "simplified": "我",
+            "pinyin": "wo3"
+          },
+          {
+            "id": "010dcafb07a075f4:1:10",
+            "position": 10,
+            "type": "hanzi",
+            "surface": "的",
+            "lemma": "的",
+            "traditional": "的",
+            "simplified": "的",
+            "pinyin": "de"
+          },
+          {
+            "id": "010dcafb07a075f4:1:11",
+            "position": 11,
+            "type": "hanzi",
+            "surface": "生",
+            "lemma": "生",
+            "traditional": "生",
+            "simplified": "生",
+            "pinyin": "sheng1"
+          },
+          {
+            "id": "010dcafb07a075f4:1:12",
+            "position": 12,
+            "type": "hanzi",
+            "surface": "命",
+            "lemma": "命",
+            "traditional": "命",
+            "simplified": "命",
+            "pinyin": "ming4"
+          }
+        ],
+        "render_groups": []
+      },
+      {
+        "line_number": 2,
+        "text": "帶希望入人群中",
+        "tokens": [
+          {
+            "id": "010dcafb07a075f4:2:0",
+            "position": 0,
+            "type": "hanzi",
+            "surface": "帶",
+            "lemma": "带",
+            "traditional": "帶",
+            "simplified": "带",
+            "pinyin": "dai4"
+          },
+          {
+            "id": "010dcafb07a075f4:2:1",
+            "position": 1,
+            "type": "hanzi",
+            "surface": "希",
+            "lemma": "希",
+            "traditional": "希",
+            "simplified": "希",
+            "pinyin": "xi1"
+          },
+          {
+            "id": "010dcafb07a075f4:2:2",
+            "position": 2,
+            "type": "hanzi",
+            "surface": "望",
+            "lemma": "望",
+            "traditional": "望",
+            "simplified": "望",
+            "pinyin": "wang4"
+          },
+          {
+            "id": "010dcafb07a075f4:2:3",
+            "position": 3,
+            "type": "hanzi",
+            "surface": "入",
+            "lemma": "入",
+            "traditional": "入",
+            "simplified": "入",
+            "pinyin": "ru4"
+          },
+          {
+            "id": "010dcafb07a075f4:2:4",
+            "position": 4,
+            "type": "hanzi",
+            "surface": "人",
+            "lemma": "人",
+            "traditional": "人",
+            "simplified": "人",
+            "pinyin": "ren2"
+          },
+          {
+            "id": "010dcafb07a075f4:2:5",
+            "position": 5,
+            "type": "hanzi",
+            "surface": "群",
+            "lemma": "群",
+            "traditional": "羣",
+            "simplified": "群",
+            "pinyin": "qun2"
+          },
+          {
+            "id": "010dcafb07a075f4:2:6",
+            "position": 6,
+            "type": "hanzi",
+            "surface": "中",
+            "lemma": "中",
+            "traditional": "中",
+            "simplified": "中",
+            "pinyin": "zhong1"
+          }
+        ],
+        "render_groups": []
+      },
+      {
+        "line_number": 3,
+        "text": "主告訴我 如何付出我的關懷",
+        "tokens": [
+          {
+            "id": "010dcafb07a075f4:3:0",
+            "position": 0,
+            "type": "hanzi",
+            "surface": "主",
+            "lemma": "主",
+            "traditional": "主",
+            "simplified": "主",
+            "pinyin": "zhu3"
+          },
+          {
+            "id": "010dcafb07a075f4:3:1",
+            "position": 1,
+            "type": "hanzi",
+            "surface": "告",
+            "lemma": "告",
+            "traditional": "告",
+            "simplified": "告",
+            "pinyin": "gao4"
+          },
+          {
+            "id": "010dcafb07a075f4:3:2",
+            "position": 2,
+            "type": "hanzi",
+            "surface": "訴",
+            "lemma": "诉",
+            "traditional": "訴",
+            "simplified": "诉",
+            "pinyin": "su4"
+          },
+          {
+            "id": "010dcafb07a075f4:3:3",
+            "position": 3,
+            "type": "hanzi",
+            "surface": "我",
+            "lemma": "我",
+            "traditional": "我",
+            "simplified": "我",
+            "pinyin": "wo3"
+          },
+          {
+            "id": null,
+            "position": 4,
+            "type": "word",
+            "surface": " ",
+            "lemma": " ",
+            "traditional": null,
+            "simplified": null,
+            "pinyin": null
+          },
+          {
+            "id": "010dcafb07a075f4:3:5",
+            "position": 5,
+            "type": "hanzi",
+            "surface": "如",
+            "lemma": "如",
+            "traditional": "如",
+            "simplified": "如",
+            "pinyin": "ru2"
+          },
+          {
+            "id": "010dcafb07a075f4:3:6",
+            "position": 6,
+            "type": "hanzi",
+            "surface": "何",
+            "lemma": "何",
+            "traditional": "何",
+            "simplified": "何",
+            "pinyin": "he2"
+          },
+          {
+            "id": "010dcafb07a075f4:3:7",
+            "position": 7,
+            "type": "hanzi",
+            "surface": "付",
+            "lemma": "付",
+            "traditional": "付",
+            "simplified": "付",
+            "pinyin": "fu4"
+          },
+          {
+            "id": "010dcafb07a075f4:3:8",
+            "position": 8,
+            "type": "hanzi",
+            "surface": "出",
+            "lemma": "出",
+            "traditional": "出",
+            "simplified": "出",
+            "pinyin": "chu1"
+          },
+          {
+            "id": "010dcafb07a075f4:3:9",
+            "position": 9,
+            "type": "hanzi",
+            "surface": "我",
+            "lemma": "我",
+            "traditional": "我",
+            "simplified": "我",
+            "pinyin": "wo3"
+          },
+          {
+            "id": "010dcafb07a075f4:3:10",
+            "position": 10,
+            "type": "hanzi",
+            "surface": "的",
+            "lemma": "的",
+            "traditional": "的",
+            "simplified": "的",
+            "pinyin": "de"
+          },
+          {
+            "id": "010dcafb07a075f4:3:11",
+            "position": 11,
+            "type": "hanzi",
+            "surface": "關",
+            "lemma": "关",
+            "traditional": "關",
+            "simplified": "关",
+            "pinyin": "guan1"
+          },
+          {
+            "id": "010dcafb07a075f4:3:12",
+            "position": 12,
+            "type": "hanzi",
+            "surface": "懷",
+            "lemma": "怀",
+            "traditional": "懷",
+            "simplified": "怀",
+            "pinyin": "huai2"
+          }
+        ],
+        "render_groups": []
+      },
+      {
+        "line_number": 4,
+        "text": "將溫暖帶入世界",
+        "tokens": [
+          {
+            "id": "010dcafb07a075f4:4:0",
+            "position": 0,
+            "type": "hanzi",
+            "surface": "將",
+            "lemma": "将",
+            "traditional": "將",
+            "simplified": "将",
+            "pinyin": "jiang1"
+          },
+          {
+            "id": "010dcafb07a075f4:4:1",
+            "position": 1,
+            "type": "hanzi",
+            "surface": "溫",
+            "lemma": "温",
+            "traditional": "溫",
+            "simplified": "温",
+            "pinyin": "wen1"
+          },
+          {
+            "id": "010dcafb07a075f4:4:2",
+            "position": 2,
+            "type": "hanzi",
+            "surface": "暖",
+            "lemma": "暖",
+            "traditional": "暖",
+            "simplified": "暖",
+            "pinyin": "nuan3"
+          },
+          {
+            "id": "010dcafb07a075f4:4:3",
+            "position": 3,
+            "type": "hanzi",
+            "surface": "帶",
+            "lemma": "带",
+            "traditional": "帶",
+            "simplified": "带",
+            "pinyin": "dai4"
+          },
+          {
+            "id": "010dcafb07a075f4:4:4",
+            "position": 4,
+            "type": "hanzi",
+            "surface": "入",
+            "lemma": "入",
+            "traditional": "入",
+            "simplified": "入",
+            "pinyin": "ru4"
+          },
+          {
+            "id": "010dcafb07a075f4:4:5",
+            "position": 5,
+            "type": "hanzi",
+            "surface": "世",
+            "lemma": "世",
+            "traditional": "世",
+            "simplified": "世",
+            "pinyin": "shi4"
+          },
+          {
+            "id": "010dcafb07a075f4:4:6",
+            "position": 6,
+            "type": "hanzi",
+            "surface": "界",
+            "lemma": "界",
+            "traditional": "界",
+            "simplified": "界",
+            "pinyin": "jie4"
+          }
+        ],
+        "render_groups": []
+      },
+      {
+        "line_number": 5,
+        "text": "我看到靈魂中的憂傷",
+        "tokens": [
+          {
+            "id": "010dcafb07a075f4:5:0",
+            "position": 0,
+            "type": "hanzi",
+            "surface": "我",
+            "lemma": "我",
+            "traditional": "我",
+            "simplified": "我",
+            "pinyin": "wo3"
+          },
+          {
+            "id": "010dcafb07a075f4:5:1",
+            "position": 1,
+            "type": "hanzi",
+            "surface": "看",
+            "lemma": "看",
+            "traditional": "看",
+            "simplified": "看",
+            "pinyin": "kan4"
+          },
+          {
+            "id": "010dcafb07a075f4:5:2",
+            "position": 2,
+            "type": "hanzi",
+            "surface": "到",
+            "lemma": "到",
+            "traditional": "到",
+            "simplified": "到",
+            "pinyin": "dao4"
+          },
+          {
+            "id": "010dcafb07a075f4:5:3",
+            "position": 3,
+            "type": "hanzi",
+            "surface": "靈",
+            "lemma": "灵",
+            "traditional": "靈",
+            "simplified": "灵",
+            "pinyin": "ling2"
+          },
+          {
+            "id": "010dcafb07a075f4:5:4",
+            "position": 4,
+            "type": "hanzi",
+            "surface": "魂",
+            "lemma": "魂",
+            "traditional": "魂",
+            "simplified": "魂",
+            "pinyin": "hun2"
+          },
+          {
+            "id": "010dcafb07a075f4:5:5",
+            "position": 5,
+            "type": "hanzi",
+            "surface": "中",
+            "lemma": "中",
+            "traditional": "中",
+            "simplified": "中",
+            "pinyin": "zhong1"
+          },
+          {
+            "id": "010dcafb07a075f4:5:6",
+            "position": 6,
+            "type": "hanzi",
+            "surface": "的",
+            "lemma": "的",
+            "traditional": "的",
+            "simplified": "的",
+            "pinyin": "de"
+          },
+          {
+            "id": "010dcafb07a075f4:5:7",
+            "position": 7,
+            "type": "hanzi",
+            "surface": "憂",
+            "lemma": "忧",
+            "traditional": "憂",
+            "simplified": "忧",
+            "pinyin": "you1"
+          },
+          {
+            "id": "010dcafb07a075f4:5:8",
+            "position": 8,
+            "type": "hanzi",
+            "surface": "傷",
+            "lemma": "伤",
+            "traditional": "傷",
+            "simplified": "伤",
+            "pinyin": "shang1"
+          }
+        ],
+        "render_groups": []
+      },
+      {
+        "line_number": 6,
+        "text": "孤獨中人的心在角落顫抖",
+        "tokens": [
+          {
+            "id": "010dcafb07a075f4:6:0",
+            "position": 0,
+            "type": "hanzi",
+            "surface": "孤",
+            "lemma": "孤",
+            "traditional": "孤",
+            "simplified": "孤",
+            "pinyin": "gu1"
+          },
+          {
+            "id": "010dcafb07a075f4:6:1",
+            "position": 1,
+            "type": "hanzi",
+            "surface": "獨",
+            "lemma": "独",
+            "traditional": "獨",
+            "simplified": "独",
+            "pinyin": "du2"
+          },
+          {
+            "id": "010dcafb07a075f4:6:2",
+            "position": 2,
+            "type": "hanzi",
+            "surface": "中",
+            "lemma": "中",
+            "traditional": "中",
+            "simplified": "中",
+            "pinyin": "zhong1"
+          },
+          {
+            "id": "010dcafb07a075f4:6:3",
+            "position": 3,
+            "type": "hanzi",
+            "surface": "人",
+            "lemma": "人",
+            "traditional": "人",
+            "simplified": "人",
+            "pinyin": "ren2"
+          },
+          {
+            "id": "010dcafb07a075f4:6:4",
+            "position": 4,
+            "type": "hanzi",
+            "surface": "的",
+            "lemma": "的",
+            "traditional": "的",
+            "simplified": "的",
+            "pinyin": "de"
+          },
+          {
+            "id": "010dcafb07a075f4:6:5",
+            "position": 5,
+            "type": "hanzi",
+            "surface": "心",
+            "lemma": "心",
+            "traditional": "心",
+            "simplified": "心",
+            "pinyin": "xin1"
+          },
+          {
+            "id": "010dcafb07a075f4:6:6",
+            "position": 6,
+            "type": "hanzi",
+            "surface": "在",
+            "lemma": "在",
+            "traditional": "在",
+            "simplified": "在",
+            "pinyin": "zai4"
+          },
+          {
+            "id": "010dcafb07a075f4:6:7",
+            "position": 7,
+            "type": "hanzi",
+            "surface": "角",
+            "lemma": "角",
+            "traditional": "角",
+            "simplified": "角",
+            "pinyin": "jiao3"
+          },
+          {
+            "id": "010dcafb07a075f4:6:8",
+            "position": 8,
+            "type": "hanzi",
+            "surface": "落",
+            "lemma": "落",
+            "traditional": "落",
+            "simplified": "落",
+            "pinyin": "luo4"
+          },
+          {
+            "id": "010dcafb07a075f4:6:9",
+            "position": 9,
+            "type": "hanzi",
+            "surface": "顫",
+            "lemma": "颤",
+            "traditional": "顫",
+            "simplified": "颤",
+            "pinyin": "chan4"
+          },
+          {
+            "id": "010dcafb07a075f4:6:10",
+            "position": 10,
+            "type": "hanzi",
+            "surface": "抖",
+            "lemma": "抖",
+            "traditional": "抖",
+            "simplified": "抖",
+            "pinyin": "dou3"
+          }
+        ],
+        "render_groups": []
+      },
+      {
+        "line_number": 7,
+        "text": "差遣我 差遣我 我願付出我所有",
+        "tokens": [
+          {
+            "id": "010dcafb07a075f4:7:0",
+            "position": 0,
+            "type": "hanzi",
+            "surface": "差",
+            "lemma": "差",
+            "traditional": "差",
+            "simplified": "差",
+            "pinyin": "cha4"
+          },
+          {
+            "id": "010dcafb07a075f4:7:1",
+            "position": 1,
+            "type": "hanzi",
+            "surface": "遣",
+            "lemma": "遣",
+            "traditional": "遣",
+            "simplified": "遣",
+            "pinyin": "qian3"
+          },
+          {
+            "id": "010dcafb07a075f4:7:2",
+            "position": 2,
+            "type": "hanzi",
+            "surface": "我",
+            "lemma": "我",
+            "traditional": "我",
+            "simplified": "我",
+            "pinyin": "wo3"
+          },
+          {
+            "id": null,
+            "position": 3,
+            "type": "word",
+            "surface": " ",
+            "lemma": " ",
+            "traditional": null,
+            "simplified": null,
+            "pinyin": null
+          },
+          {
+            "id": "010dcafb07a075f4:7:4",
+            "position": 4,
+            "type": "hanzi",
+            "surface": "差",
+            "lemma": "差",
+            "traditional": "差",
+            "simplified": "差",
+            "pinyin": "cha4"
+          },
+          {
+            "id": "010dcafb07a075f4:7:5",
+            "position": 5,
+            "type": "hanzi",
+            "surface": "遣",
+            "lemma": "遣",
+            "traditional": "遣",
+            "simplified": "遣",
+            "pinyin": "qian3"
+          },
+          {
+            "id": "010dcafb07a075f4:7:6",
+            "position": 6,
+            "type": "hanzi",
+            "surface": "我",
+            "lemma": "我",
+            "traditional": "我",
+            "simplified": "我",
+            "pinyin": "wo3"
+          },
+          {
+            "id": null,
+            "position": 7,
+            "type": "word",
+            "surface": " ",
+            "lemma": " ",
+            "traditional": null,
+            "simplified": null,
+            "pinyin": null
+          },
+          {
+            "id": "010dcafb07a075f4:7:8",
+            "position": 8,
+            "type": "hanzi",
+            "surface": "我",
+            "lemma": "我",
+            "traditional": "我",
+            "simplified": "我",
+            "pinyin": "wo3"
+          },
+          {
+            "id": "010dcafb07a075f4:7:9",
+            "position": 9,
+            "type": "hanzi",
+            "surface": "願",
+            "lemma": "愿",
+            "traditional": "願",
+            "simplified": "愿",
+            "pinyin": "yuan4"
+          },
+          {
+            "id": "010dcafb07a075f4:7:10",
+            "position": 10,
+            "type": "hanzi",
+            "surface": "付",
+            "lemma": "付",
+            "traditional": "付",
+            "simplified": "付",
+            "pinyin": "fu4"
+          },
+          {
+            "id": "010dcafb07a075f4:7:11",
+            "position": 11,
+            "type": "hanzi",
+            "surface": "出",
+            "lemma": "出",
+            "traditional": "出",
+            "simplified": "出",
+            "pinyin": "chu1"
+          },
+          {
+            "id": "010dcafb07a075f4:7:12",
+            "position": 12,
+            "type": "hanzi",
+            "surface": "我",
+            "lemma": "我",
+            "traditional": "我",
+            "simplified": "我",
+            "pinyin": "wo3"
+          },
+          {
+            "id": "010dcafb07a075f4:7:13",
+            "position": 13,
+            "type": "hanzi",
+            "surface": "所",
+            "lemma": "所",
+            "traditional": "所",
+            "simplified": "所",
+            "pinyin": "suo3"
+          },
+          {
+            "id": "010dcafb07a075f4:7:14",
+            "position": 14,
+            "type": "hanzi",
+            "surface": "有",
+            "lemma": "有",
+            "traditional": "有",
+            "simplified": "有",
+            "pinyin": "you3"
+          }
+        ],
+        "render_groups": [
+          {
+            "term_id": "8618beea613e8353",
+            "term": "差遣",
+            "start": 0,
+            "end": 1
+          },
+          {
+            "term_id": "8618beea613e8353",
+            "term": "差遣",
+            "start": 4,
+            "end": 5
+          }
+        ]
+      },
+      {
+        "line_number": 8,
+        "text": "差遣我 到需要祢的人群中",
+        "tokens": [
+          {
+            "id": "010dcafb07a075f4:8:0",
+            "position": 0,
+            "type": "hanzi",
+            "surface": "差",
+            "lemma": "差",
+            "traditional": "差",
+            "simplified": "差",
+            "pinyin": "cha4"
+          },
+          {
+            "id": "010dcafb07a075f4:8:1",
+            "position": 1,
+            "type": "hanzi",
+            "surface": "遣",
+            "lemma": "遣",
+            "traditional": "遣",
+            "simplified": "遣",
+            "pinyin": "qian3"
+          },
+          {
+            "id": "010dcafb07a075f4:8:2",
+            "position": 2,
+            "type": "hanzi",
+            "surface": "我",
+            "lemma": "我",
+            "traditional": "我",
+            "simplified": "我",
+            "pinyin": "wo3"
+          },
+          {
+            "id": null,
+            "position": 3,
+            "type": "word",
+            "surface": " ",
+            "lemma": " ",
+            "traditional": null,
+            "simplified": null,
+            "pinyin": null
+          },
+          {
+            "id": "010dcafb07a075f4:8:4",
+            "position": 4,
+            "type": "hanzi",
+            "surface": "到",
+            "lemma": "到",
+            "traditional": "到",
+            "simplified": "到",
+            "pinyin": "dao4"
+          },
+          {
+            "id": "010dcafb07a075f4:8:5",
+            "position": 5,
+            "type": "hanzi",
+            "surface": "需",
+            "lemma": "需",
+            "traditional": "需",
+            "simplified": "需",
+            "pinyin": "xu1"
+          },
+          {
+            "id": "010dcafb07a075f4:8:6",
+            "position": 6,
+            "type": "hanzi",
+            "surface": "要",
+            "lemma": "要",
+            "traditional": "要",
+            "simplified": "要",
+            "pinyin": "yao4"
+          },
+          {
+            "id": "010dcafb07a075f4:8:7",
+            "position": 7,
+            "type": "hanzi",
+            "surface": "祢",
+            "lemma": "祢",
+            "traditional": "禰",
+            "simplified": "祢",
+            "pinyin": "mi2"
+          },
+          {
+            "id": "010dcafb07a075f4:8:8",
+            "position": 8,
+            "type": "hanzi",
+            "surface": "的",
+            "lemma": "的",
+            "traditional": "的",
+            "simplified": "的",
+            "pinyin": "de"
+          },
+          {
+            "id": "010dcafb07a075f4:8:9",
+            "position": 9,
+            "type": "hanzi",
+            "surface": "人",
+            "lemma": "人",
+            "traditional": "人",
+            "simplified": "人",
+            "pinyin": "ren2"
+          },
+          {
+            "id": "010dcafb07a075f4:8:10",
+            "position": 10,
+            "type": "hanzi",
+            "surface": "群",
+            "lemma": "群",
+            "traditional": "羣",
+            "simplified": "群",
+            "pinyin": "qun2"
+          },
+          {
+            "id": "010dcafb07a075f4:8:11",
+            "position": 11,
+            "type": "hanzi",
+            "surface": "中",
+            "lemma": "中",
+            "traditional": "中",
+            "simplified": "中",
+            "pinyin": "zhong1"
+          }
+        ],
+        "render_groups": [
+          {
+            "term_id": "8618beea613e8353",
+            "term": "差遣",
+            "start": 0,
+            "end": 1
+          }
+        ]
+      },
+      {
+        "line_number": 9,
+        "text": "充滿我 充滿我 用祢愛來充滿我",
+        "tokens": [
+          {
+            "id": "010dcafb07a075f4:9:0",
+            "position": 0,
+            "type": "hanzi",
+            "surface": "充",
+            "lemma": "充",
+            "traditional": "充",
+            "simplified": "充",
+            "pinyin": "chong1"
+          },
+          {
+            "id": "010dcafb07a075f4:9:1",
+            "position": 1,
+            "type": "hanzi",
+            "surface": "滿",
+            "lemma": "满",
+            "traditional": "滿",
+            "simplified": "满",
+            "pinyin": "man3"
+          },
+          {
+            "id": "010dcafb07a075f4:9:2",
+            "position": 2,
+            "type": "hanzi",
+            "surface": "我",
+            "lemma": "我",
+            "traditional": "我",
+            "simplified": "我",
+            "pinyin": "wo3"
+          },
+          {
+            "id": null,
+            "position": 3,
+            "type": "word",
+            "surface": " ",
+            "lemma": " ",
+            "traditional": null,
+            "simplified": null,
+            "pinyin": null
+          },
+          {
+            "id": "010dcafb07a075f4:9:4",
+            "position": 4,
+            "type": "hanzi",
+            "surface": "充",
+            "lemma": "充",
+            "traditional": "充",
+            "simplified": "充",
+            "pinyin": "chong1"
+          },
+          {
+            "id": "010dcafb07a075f4:9:5",
+            "position": 5,
+            "type": "hanzi",
+            "surface": "滿",
+            "lemma": "满",
+            "traditional": "滿",
+            "simplified": "满",
+            "pinyin": "man3"
+          },
+          {
+            "id": "010dcafb07a075f4:9:6",
+            "position": 6,
+            "type": "hanzi",
+            "surface": "我",
+            "lemma": "我",
+            "traditional": "我",
+            "simplified": "我",
+            "pinyin": "wo3"
+          },
+          {
+            "id": null,
+            "position": 7,
+            "type": "word",
+            "surface": " ",
+            "lemma": " ",
+            "traditional": null,
+            "simplified": null,
+            "pinyin": null
+          },
+          {
+            "id": "010dcafb07a075f4:9:8",
+            "position": 8,
+            "type": "hanzi",
+            "surface": "用",
+            "lemma": "用",
+            "traditional": "用",
+            "simplified": "用",
+            "pinyin": "yong4"
+          },
+          {
+            "id": "010dcafb07a075f4:9:9",
+            "position": 9,
+            "type": "hanzi",
+            "surface": "祢",
+            "lemma": "祢",
+            "traditional": "禰",
+            "simplified": "祢",
+            "pinyin": "mi2"
+          },
+          {
+            "id": "010dcafb07a075f4:9:10",
+            "position": 10,
+            "type": "hanzi",
+            "surface": "愛",
+            "lemma": "爱",
+            "traditional": "愛",
+            "simplified": "爱",
+            "pinyin": "ai4"
+          },
+          {
+            "id": "010dcafb07a075f4:9:11",
+            "position": 11,
+            "type": "hanzi",
+            "surface": "來",
+            "lemma": "来",
+            "traditional": "來",
+            "simplified": "来",
+            "pinyin": "lai2"
+          },
+          {
+            "id": "010dcafb07a075f4:9:12",
+            "position": 12,
+            "type": "hanzi",
+            "surface": "充",
+            "lemma": "充",
+            "traditional": "充",
+            "simplified": "充",
+            "pinyin": "chong1"
+          },
+          {
+            "id": "010dcafb07a075f4:9:13",
+            "position": 13,
+            "type": "hanzi",
+            "surface": "滿",
+            "lemma": "满",
+            "traditional": "滿",
+            "simplified": "满",
+            "pinyin": "man3"
+          },
+          {
+            "id": "010dcafb07a075f4:9:14",
+            "position": 14,
+            "type": "hanzi",
+            "surface": "我",
+            "lemma": "我",
+            "traditional": "我",
+            "simplified": "我",
+            "pinyin": "wo3"
+          }
+        ],
+        "render_groups": []
+      },
+      {
+        "line_number": 10,
+        "text": "再一次 緊握他們的手",
+        "tokens": [
+          {
+            "id": "010dcafb07a075f4:10:0",
+            "position": 0,
+            "type": "hanzi",
+            "surface": "再",
+            "lemma": "再",
+            "traditional": "再",
+            "simplified": "再",
+            "pinyin": "zai4"
+          },
+          {
+            "id": "010dcafb07a075f4:10:1",
+            "position": 1,
+            "type": "hanzi",
+            "surface": "一",
+            "lemma": "一",
+            "traditional": "一",
+            "simplified": "一",
+            "pinyin": "yi1"
+          },
+          {
+            "id": "010dcafb07a075f4:10:2",
+            "position": 2,
+            "type": "hanzi",
+            "surface": "次",
+            "lemma": "次",
+            "traditional": "次",
+            "simplified": "次",
+            "pinyin": "ci4"
+          },
+          {
+            "id": null,
+            "position": 3,
+            "type": "word",
+            "surface": " ",
+            "lemma": " ",
+            "traditional": null,
+            "simplified": null,
+            "pinyin": null
+          },
+          {
+            "id": "010dcafb07a075f4:10:4",
+            "position": 4,
+            "type": "hanzi",
+            "surface": "緊",
+            "lemma": "紧",
+            "traditional": "緊",
+            "simplified": "紧",
+            "pinyin": "jin3"
+          },
+          {
+            "id": "010dcafb07a075f4:10:5",
+            "position": 5,
+            "type": "hanzi",
+            "surface": "握",
+            "lemma": "握",
+            "traditional": "握",
+            "simplified": "握",
+            "pinyin": "wo4"
+          },
+          {
+            "id": "010dcafb07a075f4:10:6",
+            "position": 6,
+            "type": "hanzi",
+            "surface": "他",
+            "lemma": "他",
+            "traditional": "他",
+            "simplified": "他",
+            "pinyin": "ta1"
+          },
+          {
+            "id": "010dcafb07a075f4:10:7",
+            "position": 7,
+            "type": "hanzi",
+            "surface": "們",
+            "lemma": "们",
+            "traditional": "們",
+            "simplified": "们",
+            "pinyin": "men"
+          },
+          {
+            "id": "010dcafb07a075f4:10:8",
+            "position": 8,
+            "type": "hanzi",
+            "surface": "的",
+            "lemma": "的",
+            "traditional": "的",
+            "simplified": "的",
+            "pinyin": "de"
+          },
+          {
+            "id": "010dcafb07a075f4:10:9",
+            "position": 9,
+            "type": "hanzi",
+            "surface": "手",
+            "lemma": "手",
+            "traditional": "手",
+            "simplified": "手",
+            "pinyin": "shou3"
+          }
+        ],
+        "render_groups": []
+      }
+    ]
+  }
+}

@@ -1,0 +1,728 @@
+{
+  "song_id": "1b5f643144763d61",
+  "title": "走走走",
+  "album": "High to the Sky<br>",
+  "composer": "曾祥怡",
+  "lyricist": "曾祥怡",
+  "series": "兒童敬拜讚美 (9)",
+  "key": "C",
+  "spotify_id": "1XMQH0bpupI5g5U0HtWhGH",
+  "spotify_title": "走走走",
+  "youtube_id": "rZP9thxNLbE",
+  "youtube_title": "【走走走 Walk Walk Walk】創意教室 - 讚美之泉兒童敬拜讚美專輯 (9) High to the Sky",
+  "youtube_url": "https://www.youtube.com/watch?v=rZP9thxNLbE",
+  "spotify_url": "https://open.spotify.com/track/1XMQH0bpupI5g5U0HtWhGH",
+  "lyrics_clean": "我要走走走\n在你光明中行走\n走走走\n走出黑暗得自由\n走走走\n在你光明中行走\n勇敢不回頭\n在世上作鹽作光\n誠實無偽不說謊\n不從惡人的計謀\n在光中行走",
+  "lyrics_tokenized": {
+    "version": 1,
+    "lines": [
+      {
+        "line_number": 1,
+        "text": "我要走走走",
+        "tokens": [
+          {
+            "id": "1b5f643144763d61:1:0",
+            "position": 0,
+            "type": "hanzi",
+            "surface": "我",
+            "lemma": "我",
+            "traditional": "我",
+            "simplified": "我",
+            "pinyin": "wo3"
+          },
+          {
+            "id": "1b5f643144763d61:1:1",
+            "position": 1,
+            "type": "hanzi",
+            "surface": "要",
+            "lemma": "要",
+            "traditional": "要",
+            "simplified": "要",
+            "pinyin": "yao4"
+          },
+          {
+            "id": "1b5f643144763d61:1:2",
+            "position": 2,
+            "type": "hanzi",
+            "surface": "走",
+            "lemma": "走",
+            "traditional": "走",
+            "simplified": "走",
+            "pinyin": "zou3"
+          },
+          {
+            "id": "1b5f643144763d61:1:3",
+            "position": 3,
+            "type": "hanzi",
+            "surface": "走",
+            "lemma": "走",
+            "traditional": "走",
+            "simplified": "走",
+            "pinyin": "zou3"
+          },
+          {
+            "id": "1b5f643144763d61:1:4",
+            "position": 4,
+            "type": "hanzi",
+            "surface": "走",
+            "lemma": "走",
+            "traditional": "走",
+            "simplified": "走",
+            "pinyin": "zou3"
+          }
+        ],
+        "render_groups": []
+      },
+      {
+        "line_number": 2,
+        "text": "在你光明中行走",
+        "tokens": [
+          {
+            "id": "1b5f643144763d61:2:0",
+            "position": 0,
+            "type": "hanzi",
+            "surface": "在",
+            "lemma": "在",
+            "traditional": "在",
+            "simplified": "在",
+            "pinyin": "zai4"
+          },
+          {
+            "id": "1b5f643144763d61:2:1",
+            "position": 1,
+            "type": "hanzi",
+            "surface": "你",
+            "lemma": "你",
+            "traditional": "你",
+            "simplified": "你",
+            "pinyin": "ni3"
+          },
+          {
+            "id": "1b5f643144763d61:2:2",
+            "position": 2,
+            "type": "hanzi",
+            "surface": "光",
+            "lemma": "光",
+            "traditional": "光",
+            "simplified": "光",
+            "pinyin": "guang1"
+          },
+          {
+            "id": "1b5f643144763d61:2:3",
+            "position": 3,
+            "type": "hanzi",
+            "surface": "明",
+            "lemma": "明",
+            "traditional": "明",
+            "simplified": "明",
+            "pinyin": "ming2"
+          },
+          {
+            "id": "1b5f643144763d61:2:4",
+            "position": 4,
+            "type": "hanzi",
+            "surface": "中",
+            "lemma": "中",
+            "traditional": "中",
+            "simplified": "中",
+            "pinyin": "zhong1"
+          },
+          {
+            "id": "1b5f643144763d61:2:5",
+            "position": 5,
+            "type": "hanzi",
+            "surface": "行",
+            "lemma": "行",
+            "traditional": "行",
+            "simplified": "行",
+            "pinyin": "xing2"
+          },
+          {
+            "id": "1b5f643144763d61:2:6",
+            "position": 6,
+            "type": "hanzi",
+            "surface": "走",
+            "lemma": "走",
+            "traditional": "走",
+            "simplified": "走",
+            "pinyin": "zou3"
+          }
+        ],
+        "render_groups": []
+      },
+      {
+        "line_number": 3,
+        "text": "走走走",
+        "tokens": [
+          {
+            "id": "1b5f643144763d61:3:0",
+            "position": 0,
+            "type": "hanzi",
+            "surface": "走",
+            "lemma": "走",
+            "traditional": "走",
+            "simplified": "走",
+            "pinyin": "zou3"
+          },
+          {
+            "id": "1b5f643144763d61:3:1",
+            "position": 1,
+            "type": "hanzi",
+            "surface": "走",
+            "lemma": "走",
+            "traditional": "走",
+            "simplified": "走",
+            "pinyin": "zou3"
+          },
+          {
+            "id": "1b5f643144763d61:3:2",
+            "position": 2,
+            "type": "hanzi",
+            "surface": "走",
+            "lemma": "走",
+            "traditional": "走",
+            "simplified": "走",
+            "pinyin": "zou3"
+          }
+        ],
+        "render_groups": []
+      },
+      {
+        "line_number": 4,
+        "text": "走出黑暗得自由",
+        "tokens": [
+          {
+            "id": "1b5f643144763d61:4:0",
+            "position": 0,
+            "type": "hanzi",
+            "surface": "走",
+            "lemma": "走",
+            "traditional": "走",
+            "simplified": "走",
+            "pinyin": "zou3"
+          },
+          {
+            "id": "1b5f643144763d61:4:1",
+            "position": 1,
+            "type": "hanzi",
+            "surface": "出",
+            "lemma": "出",
+            "traditional": "出",
+            "simplified": "出",
+            "pinyin": "chu1"
+          },
+          {
+            "id": "1b5f643144763d61:4:2",
+            "position": 2,
+            "type": "hanzi",
+            "surface": "黑",
+            "lemma": "黑",
+            "traditional": "黑",
+            "simplified": "黑",
+            "pinyin": "hei1"
+          },
+          {
+            "id": "1b5f643144763d61:4:3",
+            "position": 3,
+            "type": "hanzi",
+            "surface": "暗",
+            "lemma": "暗",
+            "traditional": "暗",
+            "simplified": "暗",
+            "pinyin": "an4"
+          },
+          {
+            "id": "1b5f643144763d61:4:4",
+            "position": 4,
+            "type": "hanzi",
+            "surface": "得",
+            "lemma": "得",
+            "traditional": "得",
+            "simplified": "得",
+            "pinyin": "de2"
+          },
+          {
+            "id": "1b5f643144763d61:4:5",
+            "position": 5,
+            "type": "hanzi",
+            "surface": "自",
+            "lemma": "自",
+            "traditional": "自",
+            "simplified": "自",
+            "pinyin": "zi4"
+          },
+          {
+            "id": "1b5f643144763d61:4:6",
+            "position": 6,
+            "type": "hanzi",
+            "surface": "由",
+            "lemma": "由",
+            "traditional": "由",
+            "simplified": "由",
+            "pinyin": "you2"
+          }
+        ],
+        "render_groups": []
+      },
+      {
+        "line_number": 5,
+        "text": "走走走",
+        "tokens": [
+          {
+            "id": "1b5f643144763d61:5:0",
+            "position": 0,
+            "type": "hanzi",
+            "surface": "走",
+            "lemma": "走",
+            "traditional": "走",
+            "simplified": "走",
+            "pinyin": "zou3"
+          },
+          {
+            "id": "1b5f643144763d61:5:1",
+            "position": 1,
+            "type": "hanzi",
+            "surface": "走",
+            "lemma": "走",
+            "traditional": "走",
+            "simplified": "走",
+            "pinyin": "zou3"
+          },
+          {
+            "id": "1b5f643144763d61:5:2",
+            "position": 2,
+            "type": "hanzi",
+            "surface": "走",
+            "lemma": "走",
+            "traditional": "走",
+            "simplified": "走",
+            "pinyin": "zou3"
+          }
+        ],
+        "render_groups": []
+      },
+      {
+        "line_number": 6,
+        "text": "在你光明中行走",
+        "tokens": [
+          {
+            "id": "1b5f643144763d61:6:0",
+            "position": 0,
+            "type": "hanzi",
+            "surface": "在",
+            "lemma": "在",
+            "traditional": "在",
+            "simplified": "在",
+            "pinyin": "zai4"
+          },
+          {
+            "id": "1b5f643144763d61:6:1",
+            "position": 1,
+            "type": "hanzi",
+            "surface": "你",
+            "lemma": "你",
+            "traditional": "你",
+            "simplified": "你",
+            "pinyin": "ni3"
+          },
+          {
+            "id": "1b5f643144763d61:6:2",
+            "position": 2,
+            "type": "hanzi",
+            "surface": "光",
+            "lemma": "光",
+            "traditional": "光",
+            "simplified": "光",
+            "pinyin": "guang1"
+          },
+          {
+            "id": "1b5f643144763d61:6:3",
+            "position": 3,
+            "type": "hanzi",
+            "surface": "明",
+            "lemma": "明",
+            "traditional": "明",
+            "simplified": "明",
+            "pinyin": "ming2"
+          },
+          {
+            "id": "1b5f643144763d61:6:4",
+            "position": 4,
+            "type": "hanzi",
+            "surface": "中",
+            "lemma": "中",
+            "traditional": "中",
+            "simplified": "中",
+            "pinyin": "zhong1"
+          },
+          {
+            "id": "1b5f643144763d61:6:5",
+            "position": 5,
+            "type": "hanzi",
+            "surface": "行",
+            "lemma": "行",
+            "traditional": "行",
+            "simplified": "行",
+            "pinyin": "xing2"
+          },
+          {
+            "id": "1b5f643144763d61:6:6",
+            "position": 6,
+            "type": "hanzi",
+            "surface": "走",
+            "lemma": "走",
+            "traditional": "走",
+            "simplified": "走",
+            "pinyin": "zou3"
+          }
+        ],
+        "render_groups": []
+      },
+      {
+        "line_number": 7,
+        "text": "勇敢不回頭",
+        "tokens": [
+          {
+            "id": "1b5f643144763d61:7:0",
+            "position": 0,
+            "type": "hanzi",
+            "surface": "勇",
+            "lemma": "勇",
+            "traditional": "勇",
+            "simplified": "勇",
+            "pinyin": "yong3"
+          },
+          {
+            "id": "1b5f643144763d61:7:1",
+            "position": 1,
+            "type": "hanzi",
+            "surface": "敢",
+            "lemma": "敢",
+            "traditional": "敢",
+            "simplified": "敢",
+            "pinyin": "gan3"
+          },
+          {
+            "id": "1b5f643144763d61:7:2",
+            "position": 2,
+            "type": "hanzi",
+            "surface": "不",
+            "lemma": "不",
+            "traditional": "不",
+            "simplified": "不",
+            "pinyin": "bu4"
+          },
+          {
+            "id": "1b5f643144763d61:7:3",
+            "position": 3,
+            "type": "hanzi",
+            "surface": "回",
+            "lemma": "回",
+            "traditional": "回",
+            "simplified": "回",
+            "pinyin": "hui2"
+          },
+          {
+            "id": "1b5f643144763d61:7:4",
+            "position": 4,
+            "type": "hanzi",
+            "surface": "頭",
+            "lemma": "头",
+            "traditional": "頭",
+            "simplified": "头",
+            "pinyin": "tou2"
+          }
+        ],
+        "render_groups": []
+      },
+      {
+        "line_number": 8,
+        "text": "在世上作鹽作光",
+        "tokens": [
+          {
+            "id": "1b5f643144763d61:8:0",
+            "position": 0,
+            "type": "hanzi",
+            "surface": "在",
+            "lemma": "在",
+            "traditional": "在",
+            "simplified": "在",
+            "pinyin": "zai4"
+          },
+          {
+            "id": "1b5f643144763d61:8:1",
+            "position": 1,
+            "type": "hanzi",
+            "surface": "世",
+            "lemma": "世",
+            "traditional": "世",
+            "simplified": "世",
+            "pinyin": "shi4"
+          },
+          {
+            "id": "1b5f643144763d61:8:2",
+            "position": 2,
+            "type": "hanzi",
+            "surface": "上",
+            "lemma": "上",
+            "traditional": "上",
+            "simplified": "上",
+            "pinyin": "shang4"
+          },
+          {
+            "id": "1b5f643144763d61:8:3",
+            "position": 3,
+            "type": "hanzi",
+            "surface": "作",
+            "lemma": "作",
+            "traditional": "作",
+            "simplified": "作",
+            "pinyin": "zuo4"
+          },
+          {
+            "id": "1b5f643144763d61:8:4",
+            "position": 4,
+            "type": "hanzi",
+            "surface": "鹽",
+            "lemma": "盐",
+            "traditional": "鹽",
+            "simplified": "盐",
+            "pinyin": "yan2"
+          },
+          {
+            "id": "1b5f643144763d61:8:5",
+            "position": 5,
+            "type": "hanzi",
+            "surface": "作",
+            "lemma": "作",
+            "traditional": "作",
+            "simplified": "作",
+            "pinyin": "zuo4"
+          },
+          {
+            "id": "1b5f643144763d61:8:6",
+            "position": 6,
+            "type": "hanzi",
+            "surface": "光",
+            "lemma": "光",
+            "traditional": "光",
+            "simplified": "光",
+            "pinyin": "guang1"
+          }
+        ],
+        "render_groups": []
+      },
+      {
+        "line_number": 9,
+        "text": "誠實無偽不說謊",
+        "tokens": [
+          {
+            "id": "1b5f643144763d61:9:0",
+            "position": 0,
+            "type": "hanzi",
+            "surface": "誠",
+            "lemma": "诚",
+            "traditional": "誠",
+            "simplified": "诚",
+            "pinyin": "cheng2"
+          },
+          {
+            "id": "1b5f643144763d61:9:1",
+            "position": 1,
+            "type": "hanzi",
+            "surface": "實",
+            "lemma": "实",
+            "traditional": "實",
+            "simplified": "实",
+            "pinyin": "shi2"
+          },
+          {
+            "id": "1b5f643144763d61:9:2",
+            "position": 2,
+            "type": "hanzi",
+            "surface": "無",
+            "lemma": "无",
+            "traditional": "無",
+            "simplified": "无",
+            "pinyin": "wu2"
+          },
+          {
+            "id": "1b5f643144763d61:9:3",
+            "position": 3,
+            "type": "hanzi",
+            "surface": "偽",
+            "lemma": "伪",
+            "traditional": "偽",
+            "simplified": "伪",
+            "pinyin": "wei3"
+          },
+          {
+            "id": "1b5f643144763d61:9:4",
+            "position": 4,
+            "type": "hanzi",
+            "surface": "不",
+            "lemma": "不",
+            "traditional": "不",
+            "simplified": "不",
+            "pinyin": "bu4"
+          },
+          {
+            "id": "1b5f643144763d61:9:5",
+            "position": 5,
+            "type": "hanzi",
+            "surface": "說",
+            "lemma": "说",
+            "traditional": "說",
+            "simplified": "说",
+            "pinyin": "shuo1"
+          },
+          {
+            "id": "1b5f643144763d61:9:6",
+            "position": 6,
+            "type": "hanzi",
+            "surface": "謊",
+            "lemma": "谎",
+            "traditional": "謊",
+            "simplified": "谎",
+            "pinyin": "huang3"
+          }
+        ],
+        "render_groups": []
+      },
+      {
+        "line_number": 10,
+        "text": "不從惡人的計謀",
+        "tokens": [
+          {
+            "id": "1b5f643144763d61:10:0",
+            "position": 0,
+            "type": "hanzi",
+            "surface": "不",
+            "lemma": "不",
+            "traditional": "不",
+            "simplified": "不",
+            "pinyin": "bu4"
+          },
+          {
+            "id": "1b5f643144763d61:10:1",
+            "position": 1,
+            "type": "hanzi",
+            "surface": "從",
+            "lemma": "从",
+            "traditional": "從",
+            "simplified": "从",
+            "pinyin": "cong2"
+          },
+          {
+            "id": "1b5f643144763d61:10:2",
+            "position": 2,
+            "type": "hanzi",
+            "surface": "惡",
+            "lemma": "恶",
+            "traditional": "惡",
+            "simplified": "恶",
+            "pinyin": "e4"
+          },
+          {
+            "id": "1b5f643144763d61:10:3",
+            "position": 3,
+            "type": "hanzi",
+            "surface": "人",
+            "lemma": "人",
+            "traditional": "人",
+            "simplified": "人",
+            "pinyin": "ren2"
+          },
+          {
+            "id": "1b5f643144763d61:10:4",
+            "position": 4,
+            "type": "hanzi",
+            "surface": "的",
+            "lemma": "的",
+            "traditional": "的",
+            "simplified": "的",
+            "pinyin": "de"
+          },
+          {
+            "id": "1b5f643144763d61:10:5",
+            "position": 5,
+            "type": "hanzi",
+            "surface": "計",
+            "lemma": "计",
+            "traditional": "計",
+            "simplified": "计",
+            "pinyin": "ji4"
+          },
+          {
+            "id": "1b5f643144763d61:10:6",
+            "position": 6,
+            "type": "hanzi",
+            "surface": "謀",
+            "lemma": "谋",
+            "traditional": "謀",
+            "simplified": "谋",
+            "pinyin": "mou2"
+          }
+        ],
+        "render_groups": []
+      },
+      {
+        "line_number": 11,
+        "text": "在光中行走",
+        "tokens": [
+          {
+            "id": "1b5f643144763d61:11:0",
+            "position": 0,
+            "type": "hanzi",
+            "surface": "在",
+            "lemma": "在",
+            "traditional": "在",
+            "simplified": "在",
+            "pinyin": "zai4"
+          },
+          {
+            "id": "1b5f643144763d61:11:1",
+            "position": 1,
+            "type": "hanzi",
+            "surface": "光",
+            "lemma": "光",
+            "traditional": "光",
+            "simplified": "光",
+            "pinyin": "guang1"
+          },
+          {
+            "id": "1b5f643144763d61:11:2",
+            "position": 2,
+            "type": "hanzi",
+            "surface": "中",
+            "lemma": "中",
+            "traditional": "中",
+            "simplified": "中",
+            "pinyin": "zhong1"
+          },
+          {
+            "id": "1b5f643144763d61:11:3",
+            "position": 3,
+            "type": "hanzi",
+            "surface": "行",
+            "lemma": "行",
+            "traditional": "行",
+            "simplified": "行",
+            "pinyin": "xing2"
+          },
+          {
+            "id": "1b5f643144763d61:11:4",
+            "position": 4,
+            "type": "hanzi",
+            "surface": "走",
+            "lemma": "走",
+            "traditional": "走",
+            "simplified": "走",
+            "pinyin": "zou3"
+          }
+        ],
+        "render_groups": []
+      }
+    ]
+  }
+}
