@@ -1,0 +1,65 @@
+[project]
+name = "wellspring"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "datetime>=6.0",
+    "google-api-python-client>=2.197.0",
+    "jieba>=0.42.1",
+    "opencc-python-reimplemented>=0.1.7",
+    "pandas>=3.0.3",
+    "pgvector>=0.4.2",
+    "playwright>=1.60.0",
+    "psycopg[binary]>=3.3.4",
+    "pydantic>=2.13.4",
+    "pydantic-settings>=2.14.1",
+    "pypinyin>=0.55.0",
+    "regex>=2026.5.9",
+    "requests>=2.34.2",
+    "sqlalchemy>=2.0.50",
+]
+
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools]
+package-dir = {"" = "src"}
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+
+[tool.ruff]
+line-length = 80
+target-version = "py313"  # py314 doesn't exist yet, use py313
+
+[tool.ruff.lint]
+select = [
+    "E",   # pycodestyle errors
+    "F",   # pyflakes (undefined names, unused imports)
+    "I",   # isort (import sorting)
+    "UP",  # pyupgrade (modern Python syntax)
+    "B",   # flake8-bugbear (common bugs)
+]
+ignore = [
+    "E501",  # line too long (handled by formatter)
+]
+
+[tool.ruff.lint.isort]
+known-first-party = ["core", "pipeline"]  # treats your src packages as first-party
+
+[tool.ruff.format]
+quote-style = "double"
+indent-style = "space"
+
+
+[dependency-groups]
+dev = [
+    "pytest>=9.0.3",
+    "ruff>=0.15.16",
+]
