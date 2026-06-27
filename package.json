@@ -1,5 +1,7 @@
 {
+  "name": "wellspring",
   "private": true,
+  "packageManager": "pnpm@10.0.0",
   "scripts": {
     "build": "cd web && pnpm install && pnpm build"
   }

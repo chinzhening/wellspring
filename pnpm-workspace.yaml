@@ -4,3 +4,7 @@ allowBuilds:
 ignoredBuiltDependencies:
   - sharp
   - unrs-resolver
+
+packages:
+  - "web"
+  - "data"
