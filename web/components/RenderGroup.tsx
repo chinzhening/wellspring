@@ -28,9 +28,9 @@ export function RenderGroup({
         href={`/terms/${group.termId}`}
         className="
           flex items-end gap-1
-          rounded-xl border border-border
+          rounded-md border border-border
           bg-surface-secondary
-          px-2 py-1
+          px-1 py-1
           transition-colors
           hover:border-accent
           hover:bg-accent-light
@@ -60,7 +60,9 @@ export function RenderGroup({
           pointer-events-none absolute left-1/2 top-full z-50 mt-2
           hidden w-80 -translate-x-1/2
           rounded-lg border border-border
-          bg-surface p-4 shadow-xl
+          bg-surface
+          p-2 lg:p-4
+          shadow-xl
           group-hover:block
         "
       >

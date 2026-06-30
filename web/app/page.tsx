@@ -35,7 +35,7 @@ export default async function Page() {
           >
             <div className="flex items-start justify-between gap-4">
               <div className="min-w-0 flex-1">
-                <h2 className="truncate text-lg font-semibold">
+                <h2 className="truncate text-lg lg:text-2xl font-semibold">
                   {song.title}
                 </h2>
 

@@ -80,7 +80,10 @@ export function LyricLine({
   }
 
   return (
-    <div className="flex flex-wrap items-baseline gap-x-2 gap-y-3">
+    <div className="
+      flex flex-wrap items-baseline
+      gap-x-1 lg:gap-x-2"
+    >
       {children}
     </div>
   );

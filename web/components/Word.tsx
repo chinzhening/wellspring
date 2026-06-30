@@ -11,12 +11,12 @@ export function Word({ surface }: WordProps) {
 
       {isSpace ? (
         <span
-          className="inline-block text-5xl leading-none"
+          className="inline-block text-2xl lg:text-4xl leading-none"
           style={{ width: "0.5em" }} // adjust to taste
           aria-hidden="true"
         />
       ) : (
-        <span className="text-5xl leading-none">
+        <span className="text-xl lg:text-2xl leading-none">
           {surface}
         </span>
       )}

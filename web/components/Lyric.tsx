@@ -35,7 +35,7 @@ export function Lyric({
   }
 
   return (
-    <div className="flex flex-col gap-6">
+    <div className="flex flex-col gap-3 lg:gap-6">
       {lyrics.lines.map((line) => (
         <LyricLine
           key={line.lineNumber}

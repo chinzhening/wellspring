@@ -12,5 +12,9 @@ export default async function Page() {
     3: terms.filter((t) => t.tier === 3),
   };
 
-  return <TermsBrowser grouped={grouped} />;
+  return (
+    <div className="p-4 lg:p-8">
+      <TermsBrowser grouped={grouped} />
+    </div>
+  );
 }

@@ -45,23 +45,8 @@ export function TermCard({
         {term.definition}
       </p>
 
-      {/* Context */}
-      {term.context && (
-        <div className="mt-4 border-t border-border pt-3">
-          <div className="mb-1 text-xs font-medium uppercase tracking-wide text-muted-foreground">
-            Context
-          </div>
-
-          <p className="text-sm italic">
-            {term.context}
-          </p>
-        </div>
-      )}
-
       {/* Footer */}
       <div className="mt-4 flex items-center justify-between text-xs text-muted-foreground">
-        <span>Tier {term.tier}</span>
-
         <span>
           {term.song_count} song{term.song_count === 1 ? "" : "s"}
         </span>
