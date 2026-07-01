@@ -46,8 +46,7 @@ export default function TermsBrowser({
             <TermCard
             key={term.id}
             term={term}
-            traditionalMode={false}
-            showPinyin
+            showPinyin={true}
             />
         ))}
         </div>
