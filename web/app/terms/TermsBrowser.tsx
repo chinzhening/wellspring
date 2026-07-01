@@ -44,10 +44,10 @@ export default function TermsBrowser({
         <div className="grid grid-cols-[repeat(auto-fit,minmax(280px,320px))] justify-center gap-4">
         {grouped[selectedTier].map((term) => (
             <TermCard
-              key={term.id}
-              term={term}
-              traditionalMode={false}
-              showPinyin
+            key={term.id}
+            term={term}
+            traditionalMode={false}
+            showPinyin
             />
         ))}
         </div>

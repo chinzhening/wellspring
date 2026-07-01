@@ -18,7 +18,7 @@ export default function Song({ song, terms }: SongProps) {
     <main className="
       mx-auto mt-10
       flex flex-col min-h-screen
-      max-w-2xl lg:max-w-5xl
+      max-w-3xl lg:max-w-5xl
       px-8 lg:px-16
       gap-4 lg:gap-8
       mb-64"

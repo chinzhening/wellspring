@@ -1,33 +1,35 @@
 import Link from "next/link";
 
-import { Home, FileText } from "lucide-react";
+import { FileText, Home } from "lucide-react";
 
 export default function Sidebar() {
   return (
     <aside className="
       sticky top-0
-      w-screen lg:w-64
+      w-full lg:w-64
       h-16 lg:h-screen
       flex lg:flex-col
       items-center lg:items-start
-      gap-4
-      z-100
-      border-r-border bg-white"
+      gap-3
+      z-50
+    bg-surface
+      shadow-sm lg:shadow-none lg:border-r lg:border-border"
     >
-      <div className="p-6 text-xl font-bold">Wellspring</div>
-
-      <nav className="flex lg:flex-col px-3">
-        <Link
+      <Link
           href="/"
-          className="flex items-center gap-3 rounded-lg px-4 py-3 hover:bg-gray-100"
+          className="flex items-center"
         >
-          <Home size={20} />
-          Home
+          <div className="hidden lg:block p-4 text-xl font-bold">Wellspring</div>
+          <span className="lg:hidden p-4">
+            <Home size={20}/>
+          </span>    
         </Link>
+      
 
+      <nav className="flex lg:flex-col gap-1 h-full lg:w-full px-2">
         <Link
           href="/terms"
-          className="flex items-center gap-3 rounded-lg px-4 py-3 hover:bg-gray-100"
+          className="flex items-center gap-1 rounded-lg p-2 hover:bg-gray-100"
         >
           <FileText size={20} />
           Terms
