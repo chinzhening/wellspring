@@ -18,14 +18,14 @@ export default function TermsBrowser({
 
   return (
     <div className="space-y-6">
-      <div className="flex gap-2">
+      <div className="flex gap-1">
         {TIERS.map((tier) => (
           <button
             key={tier}
             type="button"
             onClick={() => setSelectedTier(tier)}
             className={`
-              rounded-lg px-4 py-2 text-sm font-medium transition-colors
+              rounded-lg px-2 lg:px-4 py-2 text-sm font-medium transition-colors text-nowrap
               ${
                 selectedTier === tier
                   ? "bg-accent text-accent-foreground"
