@@ -8,7 +8,6 @@ interface LyricLineProps {
   line: LyricLineType;
   terms: Term[];
   groups: RenderGroupType[];
-  traditionalMode: boolean;
   showPinyin: boolean;
 }
 
@@ -16,7 +15,6 @@ export function LyricLine({
   line,
   terms,
   groups,
-  traditionalMode,
   showPinyin,
 }: LyricLineProps) {
   const children = [];
@@ -32,7 +30,6 @@ export function LyricLine({
           key={group.termId}
           group={group}
           tokens={line.tokens.slice(group.start, group.end + 1)}
-          traditionalMode={traditionalMode}
           showPinyin={showPinyin}
           term={
             terms.find((t) => t.id === group.termId) ?? {
@@ -65,7 +62,6 @@ export function LyricLine({
           simplified={token.simplified ?? token.surface}
           traditional={token.traditional ?? token.surface}
           pinyin={token.pinyin ?? ""}
-          traditionalMode={traditionalMode}
           showPinyin={showPinyin}
         />
       ) : (

@@ -1,6 +1,9 @@
+"use client";
+
 import Link from "next/link";
 
 import { FileText, Home } from "lucide-react";
+import { ChineseModeToggle } from "./ChineseModeToggle";
 
 export default function Sidebar() {
   return (
@@ -10,19 +13,20 @@ export default function Sidebar() {
       h-16 lg:h-screen
       flex lg:flex-col
       items-center lg:items-start
-      gap-3
+      gap-1
       z-50
     bg-surface
       shadow-sm lg:shadow-none lg:border-r lg:border-border"
     >
       <Link
           href="/"
-          className="flex items-center"
+          className="items-center lg:w-full"
         >
           <div className="hidden lg:block p-4 text-xl font-bold">Wellspring</div>
-          <span className="lg:hidden p-4">
+          <div className="flex lg:hidden p-4 items-center gap-1">
             <Home size={20}/>
-          </span>    
+            <span>Home</span>
+          </div>    
         </Link>
       
 
@@ -35,6 +39,11 @@ export default function Sidebar() {
           Terms
         </Link>
       </nav>
+
+      {/* Settings */}
+      <div className="flex items-center lg:h-16 justify-center p-2">
+        <ChineseModeToggle />
+      </div>
     </aside>
   );
 }

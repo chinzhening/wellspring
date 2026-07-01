@@ -6,11 +6,11 @@ import { ChineseCharacter } from "./ChineseCharacter";
 import { Word } from "./Word";
 import { RenderGroup as RenderGroupType, Token } from "@/types/song";
 import { Term } from "@/types/term";
+import { useChineseMode } from "@/context/ChineseModeContext";
 
 interface RenderGroupProps {
   group: RenderGroupType;
   tokens: Token[];
-  traditionalMode: boolean;
   showPinyin: boolean;
   term: Term;
 }
@@ -18,10 +18,10 @@ interface RenderGroupProps {
 export function RenderGroup({
   group,
   tokens,
-  traditionalMode,
   showPinyin,
   term,
 }: RenderGroupProps) {
+  const { mode } = useChineseMode();
   return (
     <div className="group relative inline-flex my-1">
       <Link
@@ -43,7 +43,6 @@ export function RenderGroup({
               simplified={token.simplified ?? token.surface}
               traditional={token.traditional ?? token.surface}
               pinyin={token.pinyin ?? ""}
-              traditionalMode={traditionalMode}
               showPinyin={showPinyin}
             />
           ) : (
@@ -68,7 +67,7 @@ export function RenderGroup({
       >
         <div className="flex items-baseline justify-between gap-3">
           <div className="text-xl font-semibold">
-            {traditionalMode ? term.traditional : term.simplified}
+            {mode === "traditional" ? term.traditional : term.simplified}
           </div>
 
           <div className="font-mono text-sm text-muted-foreground">

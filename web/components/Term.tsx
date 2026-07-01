@@ -1,3 +1,5 @@
+"use client";
+
 import { ChineseCharacter } from "@/components/ChineseCharacter";
 import { Term as TermType } from "@/types/term";
 
@@ -13,7 +15,6 @@ export default function Term({ term }: Props) {
           traditional={term.traditional}
           simplified={term.simplified}
           pinyin={term.pinyin}
-          traditionalMode={true}
           showPinyin={true}
         />
 

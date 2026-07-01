@@ -5,14 +5,12 @@ import { Term } from "@/types/term";
 interface LyricProps {
   lyrics: Lyrics;
   terms: Term[];
-  traditionalMode: boolean;
   showPinyin: boolean;
 }
 
 export function Lyric({
   lyrics,
   terms,
-  traditionalMode,
   showPinyin,
 }: LyricProps) {
 
@@ -42,7 +40,6 @@ export function Lyric({
           terms={terms}
           line={line}
           groups={lineRenderGroups.get(line.lineNumber) ?? []}
-          traditionalMode={traditionalMode}
           showPinyin={showPinyin}
         />
       ))}

@@ -1,10 +1,10 @@
+import { useChineseMode } from "@/context/ChineseModeContext";
 import { separatePinyin, toneText } from "@/lib/pinyin";
 
 interface ChineseCharacterProps {
   simplified: string;
   traditional: string;
   pinyin: string;
-  traditionalMode: boolean;
   showPinyin: boolean;
 }
 
@@ -12,9 +12,13 @@ export function ChineseCharacter({
   simplified,
   traditional,
   pinyin,
-  traditionalMode,
   showPinyin,
 }: ChineseCharacterProps) {
+
+  const { mode } = useChineseMode();
+
+  const char = mode === "traditional" ? traditional : simplified;
+  
   return (
     <div className="inline-flex flex-col items-center select-none">
       {/* Pinyin display */}
@@ -25,7 +29,7 @@ export function ChineseCharacter({
       </div>
 
       <span className="text-2xl lg:text-4xl leading-none text-text-primary">
-        {traditionalMode ? traditional : simplified}
+        {char}
       </span>
     </div>
   );

@@ -1,6 +1,4 @@
 "use client";
-
-import { useState } from "react";
 import { Lyric } from "@/components/Lyric";
 import { Song as SongType } from "@/types/song";
 import { Term } from "@/types/term";
@@ -11,7 +9,6 @@ interface SongProps {
 }
 
 export default function Song({ song, terms }: SongProps) {
-  const [traditionalMode, setTraditionalMode] = useState(false);
   const showPinyin = true;
 
   return (
@@ -83,19 +80,9 @@ export default function Song({ song, terms }: SongProps) {
         </div>
       </header>
 
-      <div className="flex gap-3">
-        <button
-          onClick={() => setTraditionalMode((v) => !v)}
-          className="rounded-md border border-border bg-surface px-4 py-2"
-        >
-          {traditionalMode ? "Traditional" : "Simplified"}
-        </button>
-      </div>
-
       <Lyric
         lyrics={song.lyrics.tokenized}
         terms={terms}
-        traditionalMode={traditionalMode}
         showPinyin={showPinyin}
       />
     </main>
