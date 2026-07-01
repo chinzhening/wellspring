@@ -6,13 +6,11 @@ import { Term } from "@/types/term";
 
 interface TermCardProps {
   term: Term;
-  traditionalMode: boolean;
   showPinyin: boolean;
 }
 
 export function TermCard({
   term,
-  traditionalMode,
   showPinyin,
 }: TermCardProps) {
   return (
@@ -33,7 +31,6 @@ export function TermCard({
             traditional={term.traditional}
             simplified={term.simplified}
             pinyin={term.pinyin}
-            traditionalMode={traditionalMode}
             showPinyin={showPinyin}
           />
         </h2>
