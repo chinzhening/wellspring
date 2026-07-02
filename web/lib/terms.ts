@@ -8,7 +8,7 @@ export async function getTerm(termId: string): Promise<Term | null> {
       process.cwd(),
       "data",
       "terms",
-      `${termId}.json`
+      `${termId}.json`,
     );
 
     const file = await fs.readFile(filePath, "utf8");
@@ -21,7 +21,7 @@ export async function getTerm(termId: string): Promise<Term | null> {
 type SongTermIndexEntry = {
   term_id: string;
   song_id: string;
-}
+};
 
 type TermIndexEntry = {
   id: string;
@@ -40,7 +40,7 @@ type TermIndexEntry = {
 export async function getAllTerms(): Promise<TermIndexEntry[]> {
   const index = await fs.readFile(
     path.join(process.cwd(), "data", "index", "term.json"),
-    "utf8"
+    "utf8",
   );
   return JSON.parse(index) as TermIndexEntry[];
 }
@@ -48,26 +48,26 @@ export async function getAllTerms(): Promise<TermIndexEntry[]> {
 export async function getTermsForSong(songId: string): Promise<Term[]> {
   const index = await fs.readFile(
     path.join(process.cwd(), "data", "index", "song_term.json"),
-    "utf8"
+    "utf8",
   );
   const indexData = JSON.parse(index) as SongTermIndexEntry[];
 
   const termIds = indexData
     .filter((entry) => entry.song_id === songId)
     .map((entry) => entry.term_id);
-  
+
   const terms: Term[] = await Promise.all(
     termIds.map(async (termId) => {
       const filePath = path.join(
         process.cwd(),
         "data",
         "terms",
-      `${termId}.json`
-    );
-    const file = await fs.readFile(filePath, "utf8");
-    return JSON.parse(file) as Term;
-  })
-);
+        `${termId}.json`,
+      );
+      const file = await fs.readFile(filePath, "utf8");
+      return JSON.parse(file) as Term;
+    }),
+  );
 
   return terms;
 }

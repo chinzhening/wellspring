@@ -20,17 +20,17 @@ export function ChineseCharacter({
   const char = mode === "traditional" ? traditional : simplified;
   
   return (
-    <div className="inline-flex flex-col items-center select-none">
+    <span className="grid grid-row-2 justify-items-center select-none">
       {/* Pinyin display */}
-      <div
+      <span
         className="mb-1 h-3 lg:h-5 text-xs lg:text-sm font-medium text-text-secondary"
         style={{ visibility: showPinyin ? "visible" : "hidden" }}>
         {separatePinyin(toneText(pinyin))}
-      </div>
-
+      </span>
+      {/* Character display */}
       <span className="text-2xl lg:text-4xl leading-none text-text-primary">
         {char}
       </span>
-    </div>
+    </span>
   );
 }

@@ -1,4 +1,7 @@
-import { LyricLine as LyricLineType, RenderGroup as RenderGroupType } from "@/types/song";
+import {
+  LyricLine as LyricLineType,
+  RenderGroup as RenderGroupType,
+} from "@/types/song";
 import { ChineseCharacter } from "./ChineseCharacter";
 import { Word } from "./Word";
 import { RenderGroup } from "./RenderGroup";
@@ -11,12 +14,7 @@ interface LyricLineProps {
   showPinyin: boolean;
 }
 
-export function LyricLine({
-  line,
-  terms,
-  groups,
-  showPinyin,
-}: LyricLineProps) {
+export function LyricLine({ line, terms, groups, showPinyin }: LyricLineProps) {
   const children = [];
 
   let i = 0;
@@ -46,7 +44,7 @@ export function LyricLine({
               tier: 0,
             }
           }
-        />
+        />,
       );
 
       i = group.end + 1;
@@ -65,19 +63,17 @@ export function LyricLine({
           showPinyin={showPinyin}
         />
       ) : (
-        <Word
-          key={token.id ?? i}
-          surface={token.surface}
-        />
-      )
+        <Word key={token.id ?? i} surface={token.surface} />
+      ),
     );
 
     i++;
   }
 
   return (
-    <div className="
-      flex flex-wrap items-baseline
+    <div
+      className="
+      flex flex-wrap items-baseline-last
       gap-x-1 lg:gap-x-2"
     >
       {children}

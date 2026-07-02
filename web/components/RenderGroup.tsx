@@ -46,11 +46,8 @@ export function RenderGroup({
               showPinyin={showPinyin}
             />
           ) : (
-            <Word
-              key={token.id ?? index}
-              surface={token.surface}
-            />
-          )
+            <Word key={token.id ?? index} surface={token.surface} />
+          ),
         )}
       </Link>
 

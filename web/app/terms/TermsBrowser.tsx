@@ -11,13 +11,14 @@ interface TermsBrowserProps {
 
 const TIERS = [1, 2, 3] as const;
 
-export default function TermsBrowser({
-  grouped,
-}: TermsBrowserProps) {
+export default function TermsBrowser({ grouped }: TermsBrowserProps) {
   const [selectedTier, setSelectedTier] = useState<(typeof TIERS)[number]>(1);
 
   return (
     <div className="space-y-6">
+      <p className="text-xs uppercase tracking-[0.24em] text-muted-foreground/70">
+        Terms
+      </p>
       <div className="flex gap-1">
         {TIERS.map((tier) => (
           <button
@@ -41,15 +42,11 @@ export default function TermsBrowser({
         ))}
       </div>
 
-        <div className="grid grid-cols-[repeat(auto-fit,minmax(280px,320px))] justify-center gap-4">
+      <div className="grid grid-cols-[repeat(auto-fit,minmax(240px,280px))] justify-center gap-4">
         {grouped[selectedTier].map((term) => (
-            <TermCard
-            key={term.id}
-            term={term}
-            showPinyin={true}
-            />
+          <TermCard key={term.id} term={term} showPinyin={true} />
         ))}
-        </div>
+      </div>
     </div>
   );
 }

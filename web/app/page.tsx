@@ -1,5 +1,6 @@
 import { getSong } from "@/lib/songs";
 import Link from "next/link";
+import { ChevronRight } from "lucide-react";
 
 export default async function Page() {
   const songIds = [
@@ -67,7 +68,7 @@ export default async function Page() {
               </div>
 
               <span className="shrink-0 pt-1 text-sm text-muted-foreground">
-                →
+                <ChevronRight size={20} />
               </span>
             </div>
           </Link>

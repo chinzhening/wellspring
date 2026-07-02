@@ -1,3 +1,4 @@
+"use client";
 import { Lyrics, RenderGroup } from "@/types/song";
 import { LyricLine } from "./LyricLine";
 import { Term } from "@/types/term";
@@ -8,12 +9,7 @@ interface LyricProps {
   showPinyin: boolean;
 }
 
-export function Lyric({
-  lyrics,
-  terms,
-  showPinyin,
-}: LyricProps) {
-
+export function Lyric({ lyrics, terms, showPinyin }: LyricProps) {
   const seenTerms = new Set<string>();
   const lineRenderGroups = new Map<number, RenderGroup[]>();
 

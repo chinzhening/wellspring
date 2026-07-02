@@ -1,3 +1,4 @@
+"use client"
 import Link from "next/link";
 
 import { ChineseCharacter } from "./ChineseCharacter";
@@ -38,7 +39,7 @@ export function TermCard({
       </div>
 
       {/* Definition */}
-      <p className="mt-3 text-sm">
+      <p className="mt-3 h-10 overflow-hidden text-sm leading-5 line-clamp-2">
         {term.definition}
       </p>
 

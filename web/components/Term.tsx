@@ -29,9 +29,7 @@ export default function Term({ term }: Props) {
             Context
           </h2>
 
-          <p className="text-2xl leading-relaxed">
-            {term.context}
-          </p>
+          <p className="text-2xl leading-relaxed">{term.context}</p>
         </section>
       )}
 
@@ -48,7 +46,9 @@ export default function Term({ term }: Props) {
       <section className="flex gap-6 rounded-xl border p-6 text-sm text-muted-foreground">
         <div>
           <div className="font-medium text-foreground">Occurrences</div>
-          <div>{term.song_count} song{term.song_count !== 1 && "s"}</div>
+          <div>
+            {term.song_count} song{term.song_count !== 1 && "s"}
+          </div>
         </div>
 
         <div>
